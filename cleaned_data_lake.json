@@ -1,0 +1,116 @@
+{
+	"fields": [
+		{
+			"name": "Index",
+			"title": "Index",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		},
+		{
+			"name": "Item_id",
+			"title": "Item_id",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		},
+		{
+			"name": "Product_Name",
+			"title": "Product_Name",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Product_Category",
+			"title": "Product_Category",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Price",
+			"title": "Price",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		},
+		{
+			"name": "Old_Price",
+			"title": "Old_Price",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Sellable_Online",
+			"title": "Sellable_Online",
+			"constraints": {
+				"required": true,
+				"type": "boolean"
+			}
+		},
+		{
+			"name": "Product_Link",
+			"title": "Product_Link",
+			"constraints": {
+				"required": true,
+				"type": "URL"
+			}
+		},
+		{
+			"name": "Other_Colors",
+			"title": "Other_Colors",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Product_Description",
+			"title": "Product_Description",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Product_Designer",
+			"title": "Product_Designer",
+			"constraints": {
+				"required": true,
+				"type": "string"
+			}
+		},
+		{
+			"name": "Product_Depth",
+			"title": "Product_Depth",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		},
+		{
+			"name": "Product_Height",
+			"title": "Product_Height",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		},
+		{
+			"name": "Product_Width",
+			"title": "Product_Width",
+			"constraints": {
+				"required": true,
+				"type": "int"
+			}
+		}
+	]
+}
