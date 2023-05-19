@@ -81,8 +81,8 @@
 			}
 		},
 		{
-			"name": "Product_Designer",
-			"title": "Product_Designer",
+			"name": "Designer",
+			"title": "Designer",
 			"constraints": {
 				"required": true,
 				"type": "string"
