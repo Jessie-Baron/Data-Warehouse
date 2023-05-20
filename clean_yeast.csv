@@ -1,0 +1,1465 @@
+,name,transcripts,condition,location,meaning,function,process
+0,YGR131W,7.37917393310322,IFFABF,membrane,E1B1 ethanol,molecular_function,protein ion  
+1,YPR047W,24.86078836985966,IFFABF,membrane,E1B1 ethanol,molecular_function,protein ion  
+2,YNL003C,5.8587152911150415,SAASCC,membrane,pbs2 galactose,molecular_function,protein ion  
+3,YCR020C,30.63109666673009,SAASCC,membrane,pbs2 galactose,molecular_function,protein ion  
+4,YBR160W,12.130322714923096,IFFAFF,membrane,G2A1 glucose,molecular_function,protein ion  
+5,YPR125W,18.879524826985573,IFFAFF,membrane,G2A1 glucose,molecular_function,protein ion  
+6,YOL034W,12.67974761450056,IFFAFA,membrane,G1A1 glucose,molecular_function,protein ion  
+7,YPL001W,25.652104789335745,IFFAFA,membrane,G1A1 glucose,molecular_function,protein ion  
+8,YBL008W,11.276427112396982,INICIA,membrane,YB210 biofuel generation,molecular_function,protein ion  
+9,YNL159C,14.498263430224693,INICIA,membrane,YB210 biofuel generation,molecular_function,protein ion  
+10,YIL004C,18.484635129855945,INICIF,membrane,YB211 biofuel generation,molecular_function,protein ion  
+11,YLR181C,38.07283056597194,INICIF,membrane,YB211 biofuel generation,molecular_function,protein ion  
+12,YJR140C,2.3772593052921147,SAABQI,membrane,30 deg temperature,molecular_function,protein ion  
+13,YJL012C,11.117183221807242,SAABQI,membrane,30 deg temperature,molecular_function,protein ion  
+14,YOR033C,22.251591491167854,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+15,YIL023C,9.655426263788696,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+16,YGL171W,14.731754746137232,FFNARN,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+17,YGL163C,6.439045120828194,FFNARN,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+18,YMR266W,19.091838347685545,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+19,YNL305C,7.691024926792753,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,protein ion  
+20,YBR043C,4.405163046875964,IFAAAR,membrane,DDY3630 strain W303,molecular_function,protein ion  
+21,YAR042W,12.815019772730077,IFAAAR,membrane,DDY3630 strain W303,molecular_function,protein ion  
+22,YLR011W,0.4675892712516797,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,protein ion  
+23,YBR152W,2.25719800821092,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,protein ion  
+24,YOR266W,10.263279784337836,IFFABN,membrane,E2B1 ethanol,molecular_function,protein ion  
+25,YOR301W,27.32431630895138,IFFABN,membrane,E2B1 ethanol,molecular_function,protein ion  
+26,YDR393W,12.300554937476104,SAARRS,membrane,wild type salt stress,molecular_function,protein ion  
+27,YBR039W,20.01047214709031,SAARRS,membrane,wild type salt stress,molecular_function,protein ion  
+28,YPR194C,4.21727213356413,SAABQR,membrane,37 deg temperature,molecular_function,protein ion  
+29,YNL261W,7.00664897781127,SAABQR,membrane,37 deg temperature,molecular_function,protein ion  
+30,YPL089C,1.0956666182150416,FAFASB,membrane,tet-control strain tet-control,molecular_function,protein ion  
+31,YOR191W,4.120775427530718,FAFASB,membrane,tet-control strain tet-control,molecular_function,protein ion  
+32,YCR028C,1.501581916549085,SAABBN,membrane,15 deg temperature,molecular_function,protein ion  
+33,YDR272W,13.914659093354851,SAABBN,membrane,15 deg temperature,molecular_function,protein ion  
+34,YBL106C,0.9423227785329448,SAABFA,membrane,15 deg temperature,molecular_function,protein ion  
+35,YER171W,7.821279061823441,SAABFA,membrane,15 deg temperature,molecular_function,protein ion  
+36,YLR179C,9.571956349513435,SAASCF,membrane,ste12 galactose,molecular_function,protein ion  
+37,YEL062W,32.46141718530644,SAASCF,membrane,ste12 galactose,molecular_function,protein ion  
+38,YOR141C,22.93751570818196,INICIQ,membrane,YB212 biofuel generation,molecular_function,protein ion  
+39,YDR038C,22.402009504878105,INICIQ,membrane,YB212 biofuel generation,molecular_function,protein ion  
+40,YER107C,13.134816878295585,IFFAFQ,membrane,G2A2 glucose,molecular_function,protein ion  
+41,YJL173C,21.37901045084281,IFFAFQ,membrane,G2A2 glucose,molecular_function,protein ion  
+42,YDR333C,4.505896190460026,SAABRQ,membrane,wild type none,molecular_function,protein ion  
+43,YLR092W,15.41391988486534,SAABRQ,membrane,wild type none,molecular_function,protein ion  
+44,YLR431C,9.612825854281285,IFFAFB,membrane,G1B2 glucose,molecular_function,protein ion  
+45,YJR033C,22.273620881871267,IFFAFB,membrane,G1B2 glucose,molecular_function,protein ion  
+46,YLR164W,88.72578181469348,IFFABF,membrane,E1B1 ethanol,kinase,protein ion  
+47,YKR104W,99.4286151334572,SAASCC,membrane,pbs2 galactose,kinase,protein ion  
+48,YMR197C,66.76237764905042,IFFAFF,membrane,G2A1 glucose,kinase,protein ion  
+49,YDR213W,66.42237019596062,IFFAFA,membrane,G1A1 glucose,kinase,protein ion  
+50,YEL061C,70.8803989922096,INICIA,membrane,YB210 biofuel generation,kinase,protein ion  
+51,YML027W,98.49275733371002,INICIF,membrane,YB211 biofuel generation,kinase,protein ion  
+52,YHR194W,34.68001810073203,SAABQI,membrane,30 deg temperature,kinase,protein ion  
+53,YGR288W,29.162328055605453,FFNAAA,membrane,Strain6 phenol lysis,kinase,protein ion  
+54,YLR309C,24.29276113767001,FFNARN,membrane,Strain6 phenol lysis,kinase,protein ion  
+55,YLR372W,30.22120382998564,FFNAAR,membrane,Strain6 phenol lysis,kinase,protein ion  
+56,YOR295W,25.21844602845406,IFAAAR,membrane,DDY3630 strain W303,kinase,protein ion  
+57,YJR132W,10.769576187262585,AFIINC,membrane,itc1 itc1-1_dUTP,kinase,protein ion  
+58,YPL058C,90.50346718916092,IFFABN,membrane,E2B1 ethanol,kinase,protein ion  
+59,YHR071W,125.26163201879572,SAARRS,membrane,wild type salt stress,kinase,protein ion  
+60,YJL170C,38.28751787401135,SAABQR,membrane,37 deg temperature,kinase,protein ion  
+61,YLR389C,45.52895652324309,FAFASB,membrane,tet-control strain tet-control,kinase,protein ion  
+62,YPR088C,33.68548766125113,SAABBN,membrane,15 deg temperature,kinase,protein ion  
+63,YCL028W,26.856199188188924,SAABFA,membrane,15 deg temperature,kinase,protein ion  
+64,YMR314W,112.78261611818006,SAASCF,membrane,ste12 galactose,kinase,protein ion  
+65,YGR090W,59.88744373614824,INICIQ,membrane,YB212 biofuel generation,kinase,protein ion  
+66,YGL244W,70.84417188612618,IFFAFQ,membrane,G2A2 glucose,kinase,protein ion  
+67,YNL229C,40.740811388742735,SAABRQ,membrane,wild type none,kinase,protein ion  
+68,YEL037C,71.39281640557685,IFFAFB,membrane,G1B2 glucose,kinase,protein ion  
+69,YOL126C,207.31964859670956,IFFABF,membrane,E1B1 ethanol,peptidase,protein ion  
+70,YDR470C,156.0000685714587,SAASCC,membrane,pbs2 galactose,peptidase,protein ion  
+71,YLR347C,258.2025835033631,IFFAFF,membrane,G2A1 glucose,peptidase,protein ion  
+72,YML120C,281.9780796424701,IFFAFA,membrane,G1A1 glucose,peptidase,protein ion  
+73,YIL063C,148.20447062007463,INICIA,membrane,YB210 biofuel generation,peptidase,protein ion  
+74,YBR071W,324.30878500217403,INICIF,membrane,YB211 biofuel generation,peptidase,protein ion  
+75,YER053C,30.76453218613325,SAABQI,membrane,30 deg temperature,peptidase,protein ion  
+76,YJR121W,23.72196097296309,FFNAAA,membrane,Strain6 phenol lysis,peptidase,protein ion  
+77,YMR083W,21.46348373609398,FFNARN,membrane,Strain6 phenol lysis,peptidase,protein ion  
+78,YIL047C,26.0590021048978,FFNAAR,membrane,Strain6 phenol lysis,peptidase,protein ion  
+79,YLR081W,84.88838184522847,IFAAAR,membrane,DDY3630 strain W303,peptidase,protein ion  
+80,YGL008C,11.20899743012561,AFIINC,membrane,itc1 itc1-1_dUTP,peptidase,protein ion  
+81,YDL127W,227.3916274296149,IFFABN,membrane,E2B1 ethanol,peptidase,protein ion  
+82,YPR008W,287.91538159872295,SAARRS,membrane,wild type salt stress,peptidase,protein ion  
+83,YMR216C,30.782765888298805,SAABQR,membrane,37 deg temperature,peptidase,protein ion  
+84,YGR065C,35.88709028295072,FAFASB,membrane,tet-control strain tet-control,peptidase,protein ion  
+85,YJL128C,30.58221836704969,SAABBN,membrane,15 deg temperature,peptidase,protein ion  
+86,YHR082C,24.264811547223328,SAABFA,membrane,15 deg temperature,peptidase,protein ion  
+87,YKL141W,235.86001366489864,SAASCF,membrane,ste12 galactose,peptidase,protein ion  
+88,YLR248W,222.59207850663745,INICIQ,membrane,YB212 biofuel generation,peptidase,protein ion  
+89,YJL048C,275.2722260664074,IFFAFQ,membrane,G2A2 glucose,peptidase,protein ion  
+90,YIL113W,198.1280104080194,SAABRQ,membrane,wild type none,peptidase,protein ion  
+91,YGR135W,281.233771029522,IFFAFB,membrane,G1B2 glucose,peptidase,protein ion  
+92,YGL011C,53.85040024990802,IFFABF,membrane,E1B1 ethanol,molecular_function,ion membrane organization  
+93,YMR123W,33.94663972536754,SAASCC,membrane,pbs2 galactose,molecular_function,ion membrane organization  
+94,YLR240W,36.39096814476929,IFFAFF,membrane,G2A1 glucose,molecular_function,ion membrane organization  
+95,YJR080C,42.52592276863265,IFFAFA,membrane,G1A1 glucose,molecular_function,ion membrane organization  
+96,YNR038W,51.54938108524335,INICIA,membrane,YB210 biofuel generation,molecular_function,ion membrane organization  
+97,YGL253W,47.31514813089991,INICIF,membrane,YB211 biofuel generation,molecular_function,ion membrane organization  
+98,YHL032C,11.117183221807242,SAABQI,membrane,30 deg temperature,molecular_function,ion membrane organization  
+99,YOL023W,17.938507677901843,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,ion membrane organization  
+100,YML007W,13.658580559332531,FFNARN,membrane,Strain6 phenol lysis,molecular_function,ion membrane organization  
+101,YHR092C,17.282185423734305,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,ion membrane organization  
+102,YAL042W,14.038676174640065,IFAAAR,membrane,DDY3630 strain W303,molecular_function,ion membrane organization  
+103,YBR195C,3.4195986463827666,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,ion membrane organization  
+104,YGR213C,62.37941479311827,IFFABN,membrane,E2B1 ethanol,molecular_function,ion membrane organization  
+105,YDR384C,30.15303499027236,SAARRS,membrane,wild type salt stress,molecular_function,ion membrane organization  
+106,YNL213C,15.540813846519786,SAABQR,membrane,37 deg temperature,molecular_function,ion membrane organization  
+107,YDL031W,6.739685880825208,FAFASB,membrane,tet-control strain tet-control,molecular_function,ion membrane organization  
+108,YDR514C,11.612233487979587,SAABBN,membrane,15 deg temperature,molecular_function,ion membrane organization  
+109,YIL019W,11.260757203468687,SAABFA,membrane,15 deg temperature,molecular_function,ion membrane organization  
+110,YDR033W,45.078000382834446,SAASCF,membrane,ste12 galactose,molecular_function,ion membrane organization  
+111,YGL245W,53.63987136426989,INICIQ,membrane,YB212 biofuel generation,molecular_function,ion membrane organization  
+112,YML069W,38.00712969038722,IFFAFQ,membrane,G2A2 glucose,molecular_function,ion membrane organization  
+113,YLL015W,23.80615153959714,SAABRQ,membrane,wild type none,molecular_function,ion membrane organization  
+114,YDR173C,41.49927259043383,IFFAFB,membrane,G1B2 glucose,molecular_function,ion membrane organization  
+115,YCR024C,119.99942372165476,IFFABF,membrane,E1B1 ethanol,molecular_function,transport   
+116,YGL112C,39.6191362360661,IFFABF,membrane,E1B1 ethanol,molecular_function,transport   
+117,YCR075C,96.1049557477967,IFFABF,membrane,E1B1 ethanol,molecular_function,transport   
+118,YOR154W,205.8462443280195,SAASCC,membrane,pbs2 galactose,molecular_function,transport   
+119,YBL050W,17.142864678182278,SAASCC,membrane,pbs2 galactose,molecular_function,transport   
+120,YJR090C,57.87129702349006,SAASCC,membrane,pbs2 galactose,molecular_function,transport   
+121,YPR174C,59.10112119752005,IFFAFF,membrane,G2A1 glucose,molecular_function,transport   
+122,YPL018W,32.74275078689768,IFFAFF,membrane,G2A1 glucose,molecular_function,transport   
+123,YDR311W,100.32597734146924,IFFAFF,membrane,G2A1 glucose,molecular_function,transport   
+124,YJR045C,69.05585623897227,IFFAFA,membrane,G1A1 glucose,molecular_function,transport   
+125,YJR041C,37.6490967630555,IFFAFA,membrane,G1A1 glucose,molecular_function,transport   
+126,YHR002W,115.09309373162046,IFFAFA,membrane,G1A1 glucose,molecular_function,transport   
+127,YKL062W,91.8223350580897,INICIA,membrane,YB210 biofuel generation,molecular_function,transport   
+128,YKR028W,62.82580819764033,INICIA,membrane,YB210 biofuel generation,molecular_function,transport   
+129,YNL100W,40.272953972846366,INICIA,membrane,YB210 biofuel generation,molecular_function,transport   
+130,YDR093W,122.49519399486624,INICIF,membrane,YB211 biofuel generation,molecular_function,transport   
+131,YDL175C,53.38472981533022,INICIF,membrane,YB211 biofuel generation,molecular_function,transport   
+132,YOR372C,66.07567333732086,INICIF,membrane,YB211 biofuel generation,molecular_function,transport   
+133,YMR282C,37.33695497135263,SAABQI,membrane,30 deg temperature,molecular_function,transport   
+134,YFL026W,13.354603744435115,SAABQI,membrane,30 deg temperature,molecular_function,transport   
+135,YOL124C,21.045736790968427,SAABQI,membrane,30 deg temperature,molecular_function,transport   
+136,YJL156C,20.53616042907342,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,transport   
+137,YPL098C,13.870485444935031,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,transport   
+138,YDR228C,55.38391714762045,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,transport   
+139,YKR024C,14.82931603584675,FFNARN,membrane,Strain6 phenol lysis,molecular_function,transport   
+140,YKL197C,9.561006391532771,FFNARN,membrane,Strain6 phenol lysis,molecular_function,transport   
+141,YLR083C,47.31722550911628,FFNARN,membrane,Strain6 phenol lysis,molecular_function,transport   
+142,YBR170C,19.272803640080664,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,transport   
+143,YOR327C,10.586469605114733,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,transport   
+144,YDL007W,58.81372002841517,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,transport   
+145,YMR088C,131.28720777583362,IFAAAR,membrane,DDY3630 strain W303,molecular_function,transport   
+146,YLR276C,13.1709925441948,IFAAAR,membrane,DDY3630 strain W303,molecular_function,transport   
+147,YBL105C,12.214315720883352,IFAAAR,membrane,DDY3630 strain W303,molecular_function,transport   
+148,YKL139W,37.40150809445665,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,transport   
+149,YOL095C,3.877798574838228,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,transport   
+150,YKR016W,3.703156798828565,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,transport   
+151,YDR332W,123.6925148034482,IFFABN,membrane,E2B1 ethanol,molecular_function,transport   
+152,YAL005C,40.12009370241154,IFFABN,membrane,E2B1 ethanol,molecular_function,transport   
+153,YDL029W,105.96503153959196,IFFABN,membrane,E2B1 ethanol,molecular_function,transport   
+154,YCR086W,206.990678062696,SAARRS,membrane,wild type salt stress,molecular_function,transport   
+155,YBR103W,28.1323696656152,SAARRS,membrane,wild type salt stress,molecular_function,transport   
+156,YLR034C,42.72824346702225,SAARRS,membrane,wild type salt stress,molecular_function,transport   
+157,YIL027C,31.579730700940846,SAABQR,membrane,37 deg temperature,molecular_function,transport   
+158,YDR377W,13.315953744560757,SAABQR,membrane,37 deg temperature,molecular_function,transport   
+159,YPR065W,14.312159760363306,SAABQR,membrane,37 deg temperature,molecular_function,transport   
+160,YFL011W,85.52880516090832,FAFASB,membrane,tet-control strain tet-control,molecular_function,transport   
+161,YBR207W,20.852406394956027,FAFASB,membrane,tet-control strain tet-control,molecular_function,transport   
+162,YPR024W,8.786711806563554,FAFASB,membrane,tet-control strain tet-control,molecular_function,transport   
+163,YMR190C,78.38257604386222,SAABBN,membrane,15 deg temperature,molecular_function,transport   
+164,YDR532C,12.413077176805766,SAABBN,membrane,15 deg temperature,molecular_function,transport   
+165,YMR145C,20.02109222065446,SAABBN,membrane,15 deg temperature,molecular_function,transport   
+166,YJL198W,74.25503494839604,SAABFA,membrane,15 deg temperature,molecular_function,transport   
+167,YLR130C,5.465472115491079,SAABFA,membrane,15 deg temperature,molecular_function,transport   
+168,YHR059W,12.344428398781575,SAABFA,membrane,15 deg temperature,molecular_function,transport   
+169,YOR272W,85.22764795413451,SAASCF,membrane,ste12 galactose,molecular_function,transport   
+170,YJL089W,21.575233419383835,SAASCF,membrane,ste12 galactose,molecular_function,transport   
+171,YMR110C,58.70215793294282,SAASCF,membrane,ste12 galactose,molecular_function,transport   
+172,YCL032W,88.35852354513675,INICIQ,membrane,YB212 biofuel generation,molecular_function,transport   
+173,YMR301C,80.41518152946284,INICIQ,membrane,YB212 biofuel generation,molecular_function,transport   
+174,YCR065W,66.49202024356251,INICIQ,membrane,YB212 biofuel generation,molecular_function,transport   
+175,YLL041C,61.06292527462946,IFFAFQ,membrane,G2A2 glucose,molecular_function,transport   
+176,YMR205C,32.4178459123891,IFFAFQ,membrane,G2A2 glucose,molecular_function,transport   
+177,YHR084W,96.83434145381744,IFFAFQ,membrane,G2A2 glucose,molecular_function,transport   
+178,YOR195W,373.5012450542157,SAABRQ,membrane,wild type none,molecular_function,transport   
+179,YKR087C,22.078891333254127,SAABRQ,membrane,wild type none,molecular_function,transport   
+180,YAL053W,25.383215206258143,SAABRQ,membrane,wild type none,molecular_function,transport   
+181,YMR201C,67.75869931432416,IFFAFB,membrane,G1B2 glucose,molecular_function,transport   
+182,YGR281W,32.47259465409653,IFFAFB,membrane,G1B2 glucose,molecular_function,transport   
+183,YBR137W,111.01641565858992,IFFAFB,membrane,G1B2 glucose,molecular_function,transport   
+184,YKR105C,118.68171409074344,IFFABF,membrane,E1B1 ethanol,transmembrane,transport   
+185,YIL013C,105.592465090358,IFFABF,membrane,E1B1 ethanol,transmembrane,transport   
+186,YNL065W,662.3687078047415,IFFABF,membrane,E1B1 ethanol,transmembrane,transport   
+187,YHR184W,5.973616993464511,IFFABF,membrane,E1B1 ethanol,transmembrane,transport   
+188,YPR199C,36.105243886969326,IFFABF,membrane,E1B1 ethanol,transmembrane,transport   
+189,YGL212W,37.24725890042578,IFFABF,endoplasm,E1B1 ethanol,transmembrane,transport   
+190,YDR499W,51.44743234738,SAASCC,membrane,pbs2 galactose,transmembrane,transport   
+191,YBR293W,60.82891213829733,SAASCC,membrane,pbs2 galactose,transmembrane,transport   
+192,YJL004C,24.48980668311754,SAASCC,membrane,pbs2 galactose,transmembrane,transport   
+193,YCR098C,13.563585239880483,SAASCC,membrane,pbs2 galactose,transmembrane,transport   
+194,YPL194W,236.7599156872471,SAASCC,membrane,pbs2 galactose,transmembrane,transport   
+195,YOL111C,23.28415466179483,SAASCC,endoplasm,pbs2 galactose,transmembrane,transport   
+196,YLL061W,93.85039153124713,IFFAFF,membrane,G2A1 glucose,transmembrane,transport   
+197,YEL032W,75.4268938739955,IFFAFF,membrane,G2A1 glucose,transmembrane,transport   
+198,YIL037C,615.0894465371531,IFFAFF,membrane,G2A1 glucose,transmembrane,transport   
+199,YKR036C,5.381120602860622,IFFAFF,membrane,G2A1 glucose,transmembrane,transport   
+200,YOR330C,41.22485614394917,IFFAFF,membrane,G2A1 glucose,transmembrane,transport   
+201,YDR004W,52.62553538729794,IFFAFF,endoplasm,G2A1 glucose,transmembrane,transport   
+202,YBL023C,98.02420271210048,IFFAFA,membrane,G1A1 glucose,transmembrane,transport   
+203,YGL241W,82.90604209481134,IFFAFA,membrane,G1A1 glucose,transmembrane,transport   
+204,YLR340W,594.9727726804108,IFFAFA,membrane,G1A1 glucose,transmembrane,transport   
+205,YIL040W,5.852191206692566,IFFAFA,membrane,G1A1 glucose,transmembrane,transport   
+206,YOR030W,41.45302104740567,IFFAFA,membrane,G1A1 glucose,transmembrane,transport   
+207,YOL144W,53.1574034607908,IFFAFA,endoplasm,G1A1 glucose,transmembrane,transport   
+208,YOR274W,91.8223350580897,INICIA,membrane,YB210 biofuel generation,transmembrane,transport   
+209,YMR104C,117.5970256007114,INICIA,membrane,YB210 biofuel generation,transmembrane,transport   
+210,YKL043W,333.4600588951679,INICIA,membrane,YB210 biofuel generation,transmembrane,transport   
+211,YML123C,24.16377238370782,INICIA,membrane,YB210 biofuel generation,transmembrane,transport   
+212,YOR065W,341.51464968973715,INICIA,membrane,YB210 biofuel generation,transmembrane,transport   
+213,YPL121C,20.94193606588011,INICIA,endoplasm,YB210 biofuel generation,transmembrane,transport   
+214,YLR005W,85.11208862030684,INICIF,membrane,YB211 biofuel generation,transmembrane,transport   
+215,YER185W,71.45552983033863,INICIF,membrane,YB211 biofuel generation,transmembrane,transport   
+216,YGR171C,85.25003365858935,INICIF,membrane,YB211 biofuel generation,transmembrane,transport   
+217,YPL075W,21.24353589550608,INICIF,membrane,YB211 biofuel generation,transmembrane,transport   
+218,YNL250W,237.95519103732465,INICIF,membrane,YB211 biofuel generation,transmembrane,transport   
+219,YGR121C,19.726140474398505,INICIF,endoplasm,YB211 biofuel generation,transmembrane,transport   
+220,YNL267W,39.78413366797686,SAABQI,membrane,30 deg temperature,transmembrane,transport   
+221,YLL019C,28.457192272173256,SAABQI,membrane,30 deg temperature,transmembrane,transport   
+222,YGL200C,24.96122270556721,SAABQI,membrane,30 deg temperature,transmembrane,transport   
+223,YBR142W,5.873228871898166,SAABQI,membrane,30 deg temperature,transmembrane,transport   
+224,YOL115W,107.25634630347363,SAABQI,membrane,30 deg temperature,transmembrane,transport   
+225,YGR096W,11.816377135128452,SAABQI,endoplasm,30 deg temperature,transmembrane,transport   
+226,YNL307C,28.08405710228895,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport   
+227,YCR044C,11.076783429524088,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport   
+228,YDR280W,26.85874920079292,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport   
+229,YOR371C,1.7644433781542797,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport   
+230,YNR031C,80.28217370601972,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport   
+231,YMR270C,26.829354670117475,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport   
+232,YGR217W,10.2439354194994,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport   
+233,YOR375C,20.97567728754639,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport   
+234,YAR002W,1.2682967662237352,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport   
+235,YOR113W,98.1466574477752,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport   
+236,YKL021C,34.29292290887592,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport   
+237,YCR084C,11.310330774695226,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport   
+238,YBR078W,30.13072118378808,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport   
+239,YML067C,2.262066154939045,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport   
+240,YKL203C,114.73199537850836,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport   
+241,YAL030W,16.468138196106608,FFNAAA,endoplasm,Strain6 phenol lysis,transmembrane,transport   
+242,YDR517W,9.561006391532771,FFNARN,endoplasm,Strain6 phenol lysis,transmembrane,transport   
+243,YPR011C,11.58177871328791,FFNAAR,endoplasm,Strain6 phenol lysis,transmembrane,transport   
+244,YDL181W,19.778737114508743,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport   
+245,YNL073W,20.134709885973468,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport   
+246,YOR259C,59.88129464983159,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport   
+247,YAL022C,2.70316823331025,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport   
+248,YBL005W,35.7307669357717,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport   
+249,YOL086C,11.969584440501354,IFAAAR,endoplasm,DDY3630 strain W303,transmembrane,transport   
+250,YER177W,4.446792748289068,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport   
+251,YMR280C,4.467449302440748,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport   
+252,YGR197C,1.3407981512999974,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport   
+253,YNL291C,0.5070245109957974,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport   
+254,YDR488C,14.196686307882326,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport   
+255,YGL246C,1.496661241717224,AFIINC,endoplasm,itc1 itc1-1_dUTP,transmembrane,transport   
+256,YHR006W,106.7647676266832,IFFABN,membrane,E2B1 ethanol,transmembrane,transport   
+257,YFL020C,106.89805697453174,IFFABN,membrane,E2B1 ethanol,transmembrane,transport   
+258,YLL024C,605.8000859716294,IFFABN,membrane,E2B1 ethanol,transmembrane,transport   
+259,YOR244W,7.330914131669883,IFFABN,membrane,E2B1 ethanol,transmembrane,transport   
+260,YLR014C,29.32365652667953,IFFABN,membrane,E2B1 ethanol,transmembrane,transport   
+261,YPL232W,44.252063485716384,IFFABN,endoplasm,E2B1 ethanol,transmembrane,transport   
+262,YKL221W,55.59772359299407,SAARRS,membrane,wild type salt stress,transmembrane,transport   
+263,YNL328C,82.35682556224032,SAARRS,membrane,wild type salt stress,transmembrane,transport   
+264,YHL007C,25.483924822617958,SAARRS,membrane,wild type salt stress,transmembrane,transport   
+265,YDR446W,8.023806968784251,SAARRS,membrane,wild type salt stress,transmembrane,transport   
+266,YER126C,426.5958008220381,SAARRS,membrane,wild type salt stress,transmembrane,transport   
+267,YGR252W,24.1695114560934,SAARRS,endoplasm,wild type salt stress,transmembrane,transport   
+268,YLR228C,78.83310271717515,SAABQR,membrane,37 deg temperature,transmembrane,transport   
+269,YPR149W,25.934563278059727,SAABQR,membrane,37 deg temperature,transmembrane,transport   
+270,YHR205W,13.083505674206828,SAABQR,membrane,37 deg temperature,transmembrane,transport   
+271,YJL103C,6.508545969909996,SAABQR,membrane,37 deg temperature,transmembrane,transport   
+272,YGR224W,72.39097048165199,SAABQR,membrane,37 deg temperature,transmembrane,transport   
+273,YGL043W,12.120506525597696,SAABQR,endoplasm,37 deg temperature,transmembrane,transport   
+274,YDL167C,20.916542977485687,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport   
+275,YHR178W,14.313147334536009,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport   
+276,YPL240C,29.013786521855387,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport   
+277,YLR413W,2.9422657235481973,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport   
+278,YCL069W,28.16664916094278,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport   
+279,YHL040C,4.414734764124997,FAFASB,endoplasm,tet-control strain tet-control,transmembrane,transport   
+280,YLR373C,32.484222128011865,SAABBN,membrane,15 deg temperature,transmembrane,transport   
+281,YJR152W,25.22657619802462,SAABBN,membrane,15 deg temperature,transmembrane,transport   
+282,YDL022W,31.433114786427502,SAABBN,membrane,15 deg temperature,transmembrane,transport   
+283,YKL146W,2.903058371994897,SAABBN,membrane,15 deg temperature,transmembrane,transport   
+284,YPR128C,49.0016232100518,SAABBN,membrane,15 deg temperature,transmembrane,transport   
+285,YGL013C,25.348482742536213,SAABFA,membrane,15 deg temperature,transmembrane,transport   
+286,YJL154C,20.11859132167837,SAABFA,membrane,15 deg temperature,transmembrane,transport   
+287,YBR052C,16.961810013593006,SAABFA,membrane,15 deg temperature,transmembrane,transport   
+288,YKL160W,2.968316752378776,SAABFA,membrane,15 deg temperature,transmembrane,transport   
+289,YPL006W,66.3395236087193,SAABFA,membrane,15 deg temperature,transmembrane,transport   
+290,YOR334W,5.005273055163615,SAABBN,endoplasm,15 deg temperature,transmembrane,transport   
+291,YDL239C,4.476033198031487,SAABFA,endoplasm,15 deg temperature,transmembrane,transport   
+292,YKR001C,55.46039697246688,SAASCF,membrane,ste12 galactose,transmembrane,transport   
+293,YAR008W,67.22273234932892,SAASCF,membrane,ste12 galactose,transmembrane,transport   
+294,YPR021C,9.287207075958117,SAASCF,membrane,ste12 galactose,transmembrane,transport   
+295,YKL080W,12.33183392397269,SAASCF,membrane,ste12 galactose,transmembrane,transport   
+296,YIR025W,153.85222288096656,SAASCF,membrane,ste12 galactose,transmembrane,transport   
+297,YPL209C,25.255070185329505,SAASCF,endoplasm,ste12 galactose,transmembrane,transport   
+298,YKR054C,88.26927251125277,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport   
+299,YNR020C,146.2824445358375,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport   
+300,YGR244C,210.63243996618456,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport   
+301,YFL055W,22.580511572646056,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport   
+302,YGL006W,205.36662896702995,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport   
+303,YCR094W,23.5622729453698,INICIQ,endoplasm,YB212 biofuel generation,transmembrane,transport   
+304,YMR070W,93.48077118701856,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport   
+305,YDR091C,78.66916917532355,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport   
+306,YNL088W,590.0886348621515,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport   
+307,YJL129C,6.148212155797932,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport   
+308,YKR067W,43.73614556283529,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport   
+309,YPR179C,53.93658845768186,IFFAFQ,endoplasm,G2A2 glucose,transmembrane,transport   
+310,YLR242C,57.63792210296784,SAABRQ,membrane,wild type none,transmembrane,transport   
+311,YHR066W,78.47769198384546,SAABRQ,membrane,wild type none,transmembrane,transport   
+312,YBR083W,11.170867638848817,SAABRQ,membrane,wild type none,transmembrane,transport   
+313,YJL074C,7.265757607116792,SAABRQ,membrane,wild type none,transmembrane,transport   
+314,YOR168W,92.27699906712928,SAABRQ,membrane,wild type none,transmembrane,transport   
+315,YDL149W,18.230105003902857,SAABRQ,endoplasm,wild type none,transmembrane,transport   
+316,YBR262C,95.07319229051367,IFFAFB,membrane,G1B2 glucose,transmembrane,transport   
+317,YGL238W,81.24010142703573,IFFAFB,membrane,G1B2 glucose,transmembrane,transport   
+318,YPL181W,613.4624109201702,IFFAFB,membrane,G1B2 glucose,transmembrane,transport   
+319,YHL020C,4.9236425107294375,IFFAFB,membrane,G1B2 glucose,transmembrane,transport   
+320,YMR043W,39.506369669424295,IFFAFB,membrane,G1B2 glucose,transmembrane,transport   
+321,YPR124W,46.07122635039688,IFFAFB,endoplasm,G1B2 glucose,transmembrane,transport   
+322,YPL234C,47.78893594771609,IFFABF,membrane,E1B1 ethanol,ADP,transport   
+323,YML129C,33.34381371470619,SAASCC,membrane,pbs2 galactose,ADP,transport   
+324,YBR202W,36.39096814476929,IFFAFF,membrane,G2A1 glucose,ADP,transport   
+325,YDR178W,35.503293320601564,IFFAFA,membrane,G1A1 glucose,ADP,transport   
+326,YJL115W,30.60744501936324,INICIA,membrane,YB210 biofuel generation,ADP,transport   
+327,YGL004C,80.5599023569841,INICIF,membrane,YB211 biofuel generation,ADP,transport   
+328,YMR292W,12.37573226578542,SAABQI,membrane,30 deg temperature,ADP,transport   
+329,YLR078C,10.537647952865836,FFNAAA,membrane,Strain6 phenol lysis,ADP,transport   
+330,YPL026C,5.853677382571085,FFNARN,membrane,Strain6 phenol lysis,ADP,transport   
+331,YGL160W,8.233920803978124,FFNAAR,membrane,Strain6 phenol lysis,ADP,transport   
+332,YGR276C,9.867120259037826,IFAAAR,membrane,DDY3630 strain W303,ADP,transport   
+333,YDL138W,3.834607597975623,AFIINC,membrane,itc1 itc1-1_dUTP,ADP,transport   
+334,YJL133W,47.45100783408142,IFFABN,membrane,E2B1 ethanol,ADP,transport   
+335,YBR111C,29.250601932658483,SAARRS,membrane,wild type salt stress,ADP,transport   
+336,YOR344C,12.319747728758204,SAABQR,membrane,37 deg temperature,ADP,transport   
+337,YOR079C,5.269889197853811,FAFASB,membrane,tet-control strain tet-control,ADP,transport   
+338,YDR014W,15.86671558486866,SAABBN,membrane,15 deg temperature,ADP,transport   
+339,YEL027W,12.297312259854928,SAABFA,membrane,15 deg temperature,ADP,transport   
+340,YBR180W,34.60798863210808,SAASCF,membrane,ste12 galactose,ADP,transport   
+341,YDR463W,47.21379692462357,INICIQ,membrane,YB212 biofuel generation,ADP,transport   
+342,YDR123C,36.050880368087874,IFFAFQ,membrane,G2A2 glucose,ADP,transport   
+343,YLR057W,16.390197392798346,SAABRQ,membrane,wild type none,ADP,transport   
+344,YLR320W,43.14048676067698,IFFAFB,membrane,G1B2 glucose,ADP,transport   
+345,YKL038W,2005.466210938255,IFFABF,mitochondria,E1B1 ethanol,ATP,transport   
+346,YDR424C,1347.5045169564596,SAASCC,mitochondria,pbs2 galactose,ATP,transport   
+347,YDL085W,1162.6868719536817,IFFAFF,mitochondria,G2A1 glucose,ATP,transport   
+348,YOR171C,1117.2808378777224,IFFAFA,mitochondria,G1A1 glucose,ATP,transport   
+349,YIL041W,2960.8675760836645,INICIA,mitochondria,YB210 biofuel generation,ATP,transport   
+350,YKL065C,2918.0893398281537,INICIF,mitochondria,YB211 biofuel generation,ATP,transport   
+351,YJR046W,137.81112031561054,SAABQI,mitochondria,30 deg temperature,ATP,transport   
+352,YFL023W,191.44210652973933,FFNAAA,mitochondria,Strain6 phenol lysis,ATP,transport   
+353,YER112W,172.97616665497557,FFNARN,mitochondria,Strain6 phenol lysis,ATP,transport   
+354,YHL016C,216.2535244121727,FFNAAR,mitochondria,Strain6 phenol lysis,ATP,transport   
+355,YBR171W,147.87331409626813,IFAAAR,mitochondria,DDY3630 strain W303,ATP,transport   
+356,YJL157C,34.46639953635876,AFIINC,mitochondria,itc1 itc1-1_dUTP,ATP,transport   
+357,YOR273C,2076.914618176002,IFFABN,mitochondria,E2B1 ethanol,ATP,transport   
+358,YGR044C,436.1694384767244,SAARRS,mitochondria,wild type salt stress,ATP,transport   
+359,YIL084C,61.864393581338376,SAABQR,mitochondria,37 deg temperature,ATP,transport   
+360,YLL039C,138.50829468801368,FAFASB,mitochondria,tet-control strain tet-control,ATP,transport   
+361,YDL153C,100.20556656437556,SAABBN,mitochondria,15 deg temperature,ATP,transport   
+362,YGL016W,82.92440451089914,SAABFA,mitochondria,15 deg temperature,ATP,transport   
+363,YMR071C,2093.432851598163,SAASCF,mitochondria,ste12 galactose,ATP,transport   
+364,YIR033W,1949.778086229351,INICIQ,mitochondria,YB212 biofuel generation,ATP,transport   
+365,YGR233C,1176.5442352686043,IFFAFQ,mitochondria,G2A2 glucose,ATP,transport   
+366,YCR039C,325.9640402448624,SAABRQ,mitochondria,wild type none,ATP,transport   
+367,YPR061C,1082.146286108177,IFFAFB,mitochondria,G1B2 glucose,ATP,transport   
+368,YOR069W,42.43025011534352,IFFABF,membrane,E1B1 ethanol,molecular_function,positive regulation ion protein
+369,YGR038W,17.7080140631773,SAASCC,membrane,pbs2 galactose,molecular_function,positive regulation ion protein
+370,YER140W,34.29324316399312,IFFAFF,membrane,G2A1 glucose,molecular_function,positive regulation ion protein
+371,YBR104W,36.96634112227471,IFFAFA,membrane,G1A1 glucose,molecular_function,positive regulation ion protein
+372,YBR227C,12.887345271310837,INICIA,membrane,YB210 biofuel generation,molecular_function,positive regulation ion protein
+373,YHR157W,16.967239708748362,INICIF,membrane,YB211 biofuel generation,molecular_function,positive regulation ion protein
+374,YPL130W,6.502503393887255,SAABQI,membrane,30 deg temperature,molecular_function,positive regulation ion protein
+375,YOL100W,4.852219289924268,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,positive regulation ion protein
+376,YKR093W,4.487819326637832,FFNARN,membrane,Strain6 phenol lysis,molecular_function,positive regulation ion protein
+377,YPL082C,3.3478579093097864,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,positive regulation ion protein
+378,YOL021C,3.570851863755516,IFAAAR,membrane,DDY3630 strain W303,molecular_function,positive regulation ion protein
+379,YDR398W,1.258171934693275,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,positive regulation ion protein
+380,YJL187C,47.45100783408142,IFFABN,membrane,E2B1 ethanol,molecular_function,positive regulation ion protein
+381,YBR289W,20.579397335586016,SAARRS,membrane,wild type salt stress,molecular_function,positive regulation ion protein
+382,YDR032C,9.364336548543973,SAABQR,membrane,37 deg temperature,molecular_function,positive regulation ion protein
+383,YDR451C,4.580420935659955,FAFASB,membrane,tet-control strain tet-control,molecular_function,positive regulation ion protein
+384,YLL007C,8.809280577087963,SAABBN,membrane,15 deg temperature,molecular_function,positive regulation ion protein
+385,YLR098C,6.266446477244083,SAABFA,membrane,15 deg temperature,molecular_function,positive regulation ion protein
+386,YCR032W,21.684752370751266,SAASCF,membrane,ste12 galactose,molecular_function,positive regulation ion protein
+387,YDR105C,12.76289784540864,INICIQ,membrane,YB212 biofuel generation,molecular_function,positive regulation ion protein
+388,YAL062W,33.95489895133858,IFFAFQ,membrane,G2A2 glucose,molecular_function,positive regulation ion protein
+389,YIL131C,12.428763658685572,SAABRQ,membrane,wild type none,molecular_function,positive regulation ion protein
+390,YJL164C,36.5756300797044,IFFAFB,membrane,G1B2 glucose,molecular_function,positive regulation ion protein
+391,YDR098C,100.05808464053057,IFFABF,membrane,E1B1 ethanol,molecular_function,ion protein targeting 
+392,YLR259C,54.72529878035112,SAASCC,membrane,pbs2 galactose,molecular_function,ion protein targeting 
+393,YKL005C,87.92203832470575,IFFAFF,membrane,G2A1 glucose,molecular_function,ion protein targeting 
+394,YMR241W,98.21927575232355,IFFAFA,membrane,G1A1 glucose,molecular_function,ion protein targeting 
+395,YOL067C,127.26253455419452,INICIA,membrane,YB210 biofuel generation,molecular_function,ion protein targeting 
+396,YOL018C,84.97414358202433,INICIF,membrane,YB211 biofuel generation,molecular_function,ion protein targeting 
+397,YLL048C,27.688078967519925,SAABQI,membrane,30 deg temperature,molecular_function,ion protein targeting 
+398,YNL264C,13.38036228433662,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,ion protein targeting 
+399,YPL279C,11.3171096063041,FFNARN,membrane,Strain6 phenol lysis,molecular_function,ion protein targeting 
+400,YER118C,14.56770603780745,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,ion protein targeting 
+401,YIL075C,36.04224311080333,IFAAAR,membrane,DDY3630 strain W303,molecular_function,ion protein targeting 
+402,YLR324W,6.290859673466374,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,ion protein targeting 
+403,YHR014W,99.03398545146769,IFFABN,membrane,E2B1 ethanol,molecular_function,ion protein targeting 
+404,YGL064C,85.18183339477072,SAARRS,membrane,wild type salt stress,molecular_function,ion protein targeting 
+405,YMR199W,29.3216637317884,SAABQR,membrane,37 deg temperature,molecular_function,ion protein targeting 
+406,YMR162C,23.166668081234626,FAFASB,membrane,tet-control strain tet-control,molecular_function,ion protein targeting 
+407,YEL009C,22.273465095478088,SAABBN,membrane,15 deg temperature,molecular_function,ion protein targeting 
+408,YHR077C,21.767656184111026,SAABFA,membrane,15 deg temperature,molecular_function,ion protein targeting 
+409,YDR498C,57.67267979008897,SAASCF,membrane,ste12 galactose,molecular_function,ion protein targeting 
+410,YML092C,139.23161285900335,INICIQ,membrane,YB212 biofuel generation,molecular_function,ion protein targeting 
+411,YIL056W,95.57675260376786,IFFAFQ,membrane,G2A2 glucose,molecular_function,ion protein targeting 
+412,YJR052W,94.69891826950156,SAABRQ,membrane,wild type none,molecular_function,ion protein targeting 
+413,YFR019W,90.852927281317,IFFAFB,membrane,G1B2 glucose,molecular_function,ion protein targeting 
+414,YDR289C,35.402465417149976,IFFABF,membrane,E1B1 ethanol,molecular_function,ion protein  
+415,YLR305C,17.68917575034413,SAASCC,membrane,pbs2 galactose,molecular_function,ion protein  
+416,YBR194W,31.46587471164262,IFFAFF,membrane,G2A1 glucose,molecular_function,ion protein  
+417,YIL143C,26.237323910005003,IFFAFA,membrane,G1A1 glucose,molecular_function,ion protein  
+418,YOR038C,22.552854224793965,INICIA,membrane,YB210 biofuel generation,molecular_function,ion protein  
+419,YOL075C,33.79653437921422,INICIF,membrane,YB211 biofuel generation,molecular_function,ion protein  
+420,YOL020W,10.138311743157548,SAABQI,membrane,30 deg temperature,molecular_function,ion protein  
+421,YDR135C,33.181337972512424,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,ion protein  
+422,YCR023C,21.658606315513016,FFNARN,membrane,Strain6 phenol lysis,molecular_function,ion protein  
+423,YBR073W,29.225894721812463,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,ion protein  
+424,YGL252C,4.538652836175235,IFAAAR,membrane,DDY3630 strain W303,molecular_function,ion protein  
+425,YGL119W,2.1557931060117608,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,ion protein  
+426,YCL056C,33.32233696213583,IFFABN,membrane,E2B1 ethanol,molecular_function,ion protein  
+427,YNL194C,18.24484225175881,SAARRS,membrane,wild type salt stress,molecular_function,ion protein  
+428,YBL057C,7.1726833137783625,SAABQR,membrane,37 deg temperature,molecular_function,ion protein  
+429,YPR120C,3.794747799671608,FAFASB,membrane,tet-control strain tet-control,molecular_function,ion protein  
+430,YBL041W,8.408858732674874,SAABBN,membrane,15 deg temperature,molecular_function,ion protein  
+431,YDR480W,8.66936956250309,SAABFA,membrane,15 deg temperature,molecular_function,ion protein  
+432,YDL058W,23.91893897864685,SAASCF,membrane,ste12 galactose,molecular_function,ion protein  
+433,YLR403W,22.13425640322617,INICIQ,membrane,YB212 biofuel generation,molecular_function,ion protein  
+434,YDL198C,29.902668212289942,IFFAFQ,membrane,G2A2 glucose,molecular_function,ion protein  
+435,YLR072W,12.597734765827823,SAABRQ,membrane,wild type none,molecular_function,ion protein  
+436,YJL011C,33.4104313228069,IFFAFB,membrane,G1B2 glucose,molecular_function,ion protein  
+437,YNL014W,70.189999673208,IFFABF,membrane,E1B1 ethanol,molecular_function,protein   
+438,YBL088C,27.918379618753995,SAASCC,membrane,pbs2 galactose,molecular_function,protein   
+439,YIR028W,72.32590911980463,IFFAFF,membrane,G2A1 glucose,molecular_function,protein   
+440,YDL170W,81.24792125291512,IFFAFA,membrane,G1A1 glucose,molecular_function,protein   
+441,YJL219W,28.996526860449386,INICIA,membrane,YB210 biofuel generation,molecular_function,protein   
+442,YNL239W,35.17598476203929,INICIF,membrane,YB211 biofuel generation,molecular_function,protein   
+443,YLL040C,14.053797657756324,SAABQI,membrane,30 deg temperature,molecular_function,protein   
+444,YOR075W,125.12844290077432,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,protein   
+445,YPL224C,99.41495421399894,FFNARN,membrane,Strain6 phenol lysis,molecular_function,protein   
+446,YOL136C,108.30772749848148,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,protein   
+447,YDR404C,22.45965704960245,IFAAAR,membrane,DDY3630 strain W303,molecular_function,protein   
+448,YOL090W,4.506884542184865,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,protein   
+449,YBR094W,87.17123349294734,IFFABN,membrane,E2B1 ethanol,molecular_function,protein   
+450,YOL001W,34.19436563958668,SAARRS,membrane,wild type salt stress,molecular_function,protein   
+451,YDL042C,15.009503971425092,SAABQR,membrane,37 deg temperature,molecular_function,protein   
+452,YER110C,11.354847465355396,FAFASB,membrane,tet-control strain tet-control,molecular_function,protein   
+453,YDR226W,27.278738150641704,SAABBN,membrane,15 deg temperature,molecular_function,protein   
+454,YMR079W,18.04548120890589,SAABFA,membrane,15 deg temperature,molecular_function,protein   
+455,YDR108W,36.86407903027715,SAASCF,membrane,ste12 galactose,molecular_function,protein   
+456,YDL155W,41.94798592546896,INICIQ,membrane,YB212 biofuel generation,molecular_function,protein   
+457,YML043C,83.14059619772203,IFFAFQ,membrane,G2A2 glucose,molecular_function,protein   
+458,YER027C,37.173643571295216,SAABRQ,membrane,wild type none,molecular_function,protein   
+459,YKR088C,89.68063144542904,IFFAFB,membrane,G1B2 glucose,molecular_function,protein   
+460,YEL069C,410.7740156094126,IFFABF,cytoplasm,E1B1 ethanol,ATP,protein   
+461,YKL120W,169.2810791188417,SAASCC,cytoplasm,pbs2 galactose,ATP,protein   
+462,YKL175W,330.4372871892209,IFFAFF,cytoplasm,G2A1 glucose,ATP,protein   
+463,YLR381W,324.6990754513258,IFFAFA,cytoplasm,G1A1 glucose,ATP,protein   
+464,YMR011W,357.62383127887574,INICIA,cytoplasm,YB210 biofuel generation,ATP,protein   
+465,YJR009C,355.7602537305856,INICIF,cytoplasm,YB211 biofuel generation,ATP,protein   
+466,YLR131C,24.6116257489066,SAABQI,cytoplasm,30 deg temperature,ATP,protein   
+467,YFL004W,63.078850769015496,FFNAAA,cytoplasm,Strain6 phenol lysis,ATP,protein   
+468,YDR283C,54.92700610645869,FFNARN,cytoplasm,Strain6 phenol lysis,ATP,protein   
+469,YOR049C,63.51881763068838,FFNAAR,cytoplasm,Strain6 phenol lysis,ATP,protein   
+470,YMR153W,34.47373808653689,IFAAAR,cytoplasm,DDY3630 strain W303,ATP,protein   
+471,YPR103W,9.691679634256705,AFIINC,cytoplasm,itc1 itc1-1_dUTP,ATP,protein   
+472,YGR172C,409.73145528642215,IFFABN,cytoplasm,E2B1 ethanol,ATP,protein   
+473,YGR105W,263.25541739392634,SAARRS,cytoplasm,wild type salt stress,ATP,protein   
+474,YBR192W,104.03711491697968,SAABQR,cytoplasm,37 deg temperature,ATP,protein   
+475,YAL067C,43.18529890330506,FAFASB,cytoplasm,tet-control strain tet-control,ATP,protein   
+476,YKL015W,33.184960355734766,SAABBN,cytoplasm,15 deg temperature,ATP,protein   
+477,YLR249W,33.40534249899289,SAABFA,cytoplasm,15 deg temperature,ATP,protein   
+478,YJR089W,189.467785865655,SAASCF,cytoplasm,ste12 galactose,ATP,protein   
+479,YKL040C,286.04956359814474,INICIQ,cytoplasm,YB212 biofuel generation,ATP,protein   
+480,YPL203W,341.50523883568513,IFFAFQ,cytoplasm,G2A2 glucose,ATP,protein   
+481,YNR055C,161.2923090510087,SAABRQ,cytoplasm,wild type none,ATP,protein   
+482,YDR184C,316.4026461061608,IFFAFB,cytoplasm,G1B2 glucose,ATP,protein   
+483,YDR298C,10.278135121108056,IFFABF,membrane,E1B1 ethanol,molecular_function,ion   
+484,YDR191W,31.712878450598364,IFFABF,mitochondria,E1B1 ethanol,molecular_function,ion   
+485,YKL181W,44.01150167243706,IFFABF,nucleus,E1B1 ethanol,molecular_function,ion   
+486,YLL029W,43.48441782007255,IFFABF,nucleus,E1B1 ethanol,molecular_function,ion   
+487,YFR042W,123.68901068820637,IFFABF,cytoplasm,E1B1 ethanol,molecular_function,ion   
+488,YDR011W,12.263741654391936,SAASCC,membrane,pbs2 galactose,molecular_function,ion   
+489,YHR028C,40.3139894629781,SAASCC,mitochondria,pbs2 galactose,molecular_function,ion   
+490,YLR251W,8.364210897926299,SAASCC,nucleus,pbs2 galactose,molecular_function,ion   
+491,YER017C,3.1083216174726105,SAASCC,nucleus,pbs2 galactose,molecular_function,ion   
+492,YOR066W,87.27790335606427,SAASCC,cytoplasm,pbs2 galactose,molecular_function,ion   
+493,YOL151W,7.296434715743216,IFFAFF,membrane,G2A1 glucose,molecular_function,ion   
+494,YOL113W,22.98376935459113,IFFAFF,mitochondria,G2A1 glucose,molecular_function,ion   
+495,YGL151W,35.20529750346102,IFFAFF,nucleus,G2A1 glucose,molecular_function,ion   
+496,YER082C,38.2150768237051,IFFAFF,nucleus,G2A1 glucose,molecular_function,ion   
+497,YGR132C,86.73636768339748,IFFAFF,cytoplasm,G2A1 glucose,molecular_function,ion   
+498,YMR169C,6.632483367584908,IFFAFA,membrane,G1A1 glucose,molecular_function,ion   
+499,YGL145W,21.750643984874035,IFFAFA,mitochondria,G1A1 glucose,molecular_function,ion   
+500,YOR348C,44.671726211086586,IFFAFA,nucleus,G1A1 glucose,molecular_function,ion   
+501,YPL177C,49.45101569655218,IFFAFA,nucleus,G1A1 glucose,molecular_function,ion   
+502,YKL073W,101.7305904763391,IFFAFA,cytoplasm,G1A1 glucose,molecular_function,ion   
+503,YDL189W,85.37866242243429,INICIA,membrane,YB210 biofuel generation,molecular_function,ion   
+504,YDR511W,43.49479029067408,INICIA,mitochondria,YB210 biofuel generation,molecular_function,ion   
+505,YOR390W,32.218363178277095,INICIA,nucleus,YB210 biofuel generation,molecular_function,ion   
+506,YLR260W,11.276427112396982,INICIA,nucleus,YB210 biofuel generation,molecular_function,ion   
+507,YJL081C,64.43672635655419,INICIA,cytoplasm,YB210 biofuel generation,molecular_function,ion   
+508,YDL123W,182.5012856477568,INICIF,membrane,YB211 biofuel generation,molecular_function,ion   
+509,YBR068C,25.5198320822638,INICIF,mitochondria,YB211 biofuel generation,molecular_function,ion   
+510,YPL246C,31.175578651846585,INICIF,nucleus,YB211 biofuel generation,molecular_function,ion   
+511,YDL081C,30.899688575281573,INICIF,nucleus,YB211 biofuel generation,molecular_function,ion   
+512,YGR181W,75.31799090224884,INICIF,cytoplasm,YB211 biofuel generation,molecular_function,ion   
+513,YOR287C,6.572422785219376,SAABQI,membrane,30 deg temperature,molecular_function,ion   
+514,YDR043C,6.082987045894529,SAABQI,mitochondria,30 deg temperature,molecular_function,ion   
+515,YBR085W,33.21171088275749,SAABQI,nucleus,30 deg temperature,molecular_function,ion   
+516,YFL018C,29.226305576826583,SAABQI,nucleus,30 deg temperature,molecular_function,ion   
+517,YBL030C,61.5290643722665,SAABQI,cytoplasm,30 deg temperature,molecular_function,ion   
+518,YDL072C,0.8822216890771398,FFNAAA,membrane,Strain6 phenol lysis,molecular_function,ion   
+519,YEL006W,0.975612897095181,FFNARN,membrane,Strain6 phenol lysis,molecular_function,ion   
+520,YHR083W,1.5382049853585509,FFNAAR,membrane,Strain6 phenol lysis,molecular_function,ion   
+521,YPL256C,8.136044465933622,FFNAAA,mitochondria,Strain6 phenol lysis,molecular_function,ion   
+522,YHR099W,8.097587045890002,FFNARN,mitochondria,Strain6 phenol lysis,molecular_function,ion   
+523,YDR318W,10.134056374126924,FFNAAR,mitochondria,Strain6 phenol lysis,molecular_function,ion   
+524,YHR091C,5.538391714762044,FFNAAA,nucleus,Strain6 phenol lysis,molecular_function,ion   
+525,YPL097W,6.71468730019823,FFNAAA,nucleus,Strain6 phenol lysis,molecular_function,ion   
+526,YDR490C,4.292696747218796,FFNARN,nucleus,Strain6 phenol lysis,molecular_function,ion   
+527,YOL130W,4.487819326637832,FFNARN,nucleus,Strain6 phenol lysis,molecular_function,ion   
+528,YCR008W,3.166892616914663,FFNAAR,nucleus,Strain6 phenol lysis,molecular_function,ion   
+529,YPR201W,5.157510833261023,FFNAAR,nucleus,Strain6 phenol lysis,molecular_function,ion   
+530,YNL270C,31.514919226477826,FFNAAA,cytoplasm,Strain6 phenol lysis,molecular_function,ion   
+531,YMR172W,20.780554708127355,FFNARN,cytoplasm,Strain6 phenol lysis,molecular_function,ion   
+532,YIR023W,30.764099707171013,FFNAAR,cytoplasm,Strain6 phenol lysis,molecular_function,ion   
+533,YOR328W,33.82853743825708,IFAAAR,membrane,DDY3630 strain W303,molecular_function,ion   
+534,YOL026C,20.77991053425328,IFAAAR,mitochondria,DDY3630 strain W303,molecular_function,ion   
+535,YOR228C,17.14231377584813,IFAAAR,nucleus,DDY3630 strain W303,molecular_function,ion   
+536,YJL066C,11.735977309227628,IFAAAR,nucleus,DDY3630 strain W303,molecular_function,ion   
+537,YIL089W,35.152311182141524,IFAAAR,cytoplasm,DDY3630 strain W303,molecular_function,ion   
+538,YDL005C,2.606481560230247,AFIINC,membrane,itc1 itc1-1_dUTP,molecular_function,ion   
+539,YGL167C,2.625260245822684,AFIINC,mitochondria,itc1 itc1-1_dUTP,molecular_function,ion   
+540,YDR208W,18.1364545451756,AFIINC,nucleus,itc1 itc1-1_dUTP,molecular_function,ion   
+541,YOR106W,8.645706846757967,AFIINC,nucleus,itc1 itc1-1_dUTP,molecular_function,ion   
+542,YOL033W,11.20899743012561,AFIINC,cytoplasm,itc1 itc1-1_dUTP,molecular_function,ion   
+543,YMR212C,10.129990436489292,IFFABN,membrane,E2B1 ethanol,molecular_function,ion   
+544,YJR077C,30.256681961619336,IFFABN,mitochondria,E2B1 ethanol,molecular_function,ion   
+545,YDL108W,44.252063485716384,IFFABN,nucleus,E2B1 ethanol,molecular_function,ion   
+546,YBR240C,53.44902848726587,IFFABN,nucleus,E2B1 ethanol,molecular_function,ion   
+547,YGL058W,127.6911952389045,IFFABN,cytoplasm,E2B1 ethanol,molecular_function,ion   
+548,YNL313C,2.923098382271036,SAARRS,membrane,wild type salt stress,molecular_function,ion   
+549,YLR121C,19.40231073869835,SAARRS,mitochondria,wild type salt stress,molecular_function,ion   
+550,YLR411W,3.0408070419598023,SAARRS,nucleus,wild type salt stress,molecular_function,ion   
+551,YBL022C,2.4326456335678417,SAARRS,nucleus,wild type salt stress,molecular_function,ion   
+552,YKR099W,94.59852616987204,SAARRS,cytoplasm,wild type salt stress,molecular_function,ion   
+553,YGR243W,15.939296252840805,SAABQR,membrane,37 deg temperature,molecular_function,ion   
+554,YDR258C,7.371924516938872,SAABQR,mitochondria,37 deg temperature,molecular_function,ion   
+555,YDL028C,28.391871450372683,SAABQR,nucleus,37 deg temperature,molecular_function,ion   
+556,YLR004C,28.65752638792003,SAABQR,nucleus,37 deg temperature,molecular_function,ion   
+557,YDR103W,48.017129961682926,SAABQR,cytoplasm,37 deg temperature,molecular_function,ion   
+558,YDL247W,10.470297097967157,FAFASB,mitochondria,tet-control strain tet-control,molecular_function,ion   
+559,YLR035C,19.462780440146705,FAFASB,nucleus,tet-control strain tet-control,molecular_function,ion   
+560,YIL073C,16.568617153495754,FAFASB,nucleus,tet-control strain tet-control,molecular_function,ion   
+561,YKR034W,35.462185423691714,FAFASB,cytoplasm,tet-control strain tet-control,molecular_function,ion   
+562,YBL080C,16.76766473479811,SAABBN,mitochondria,15 deg temperature,molecular_function,ion   
+563,YAR033W,7.727046783970146,SAABFA,mitochondria,15 deg temperature,molecular_function,ion   
+564,YGR268C,60.66390942858302,SAABBN,nucleus,15 deg temperature,molecular_function,ion   
+565,YNR072W,60.41364577582484,SAABBN,nucleus,15 deg temperature,molecular_function,ion   
+566,YHR165C,44.2891705910484,SAABFA,nucleus,15 deg temperature,molecular_function,ion   
+567,YDR440W,38.82369847555732,SAABFA,nucleus,15 deg temperature,molecular_function,ion   
+568,YOR162C,55.35831999010959,SAABBN,cytoplasm,15 deg temperature,molecular_function,ion   
+569,YLR174W,60.30865782610846,SAABFA,cytoplasm,15 deg temperature,molecular_function,ion   
+570,YMR136W,36.88598282055064,SAASCF,mitochondria,ste12 galactose,molecular_function,ion   
+571,YIL125W,9.769090461974812,SAASCF,nucleus,ste12 galactose,molecular_function,ion   
+572,YKL113C,2.8474927355531965,SAASCF,nucleus,ste12 galactose,molecular_function,ion   
+573,YMR098C,77.58322514868786,SAASCF,cytoplasm,ste12 galactose,molecular_function,ion   
+574,YBR279W,29.72059428336418,INICIQ,mitochondria,YB212 biofuel generation,molecular_function,ion   
+575,YKL148C,29.98834738501611,INICIQ,nucleus,YB212 biofuel generation,molecular_function,ion   
+576,YNL248C,15.440428861927936,INICIQ,nucleus,YB212 biofuel generation,molecular_function,ion   
+577,YPR075C,64.70699956588297,INICIQ,cytoplasm,YB212 biofuel generation,molecular_function,ion   
+578,YOL158C,19.14329693964356,IFFAFQ,mitochondria,G2A2 glucose,molecular_function,ion   
+579,YKL166C,42.75802090168562,IFFAFQ,nucleus,G2A2 glucose,molecular_function,ion   
+580,YML132W,37.30846921813745,IFFAFQ,nucleus,G2A2 glucose,molecular_function,ion   
+581,YDR310C,90.82586139246943,IFFAFQ,cytoplasm,G2A2 glucose,molecular_function,ion   
+582,YGL231C,18.36152697612461,SAABRQ,mitochondria,wild type none,molecular_function,ion   
+583,YJR059W,69.03408455133965,SAABRQ,nucleus,wild type none,molecular_function,ion   
+584,YBR025C,26.734984063396155,SAABRQ,nucleus,wild type none,molecular_function,ion   
+585,YNL154C,107.84111549167665,SAABRQ,cytoplasm,wild type none,molecular_function,ion   
+586,YIL155C,16.294912118842664,IFFAFB,mitochondria,G1B2 glucose,molecular_function,ion   
+587,YGR130C,44.54724176374253,IFFAFB,nucleus,G1B2 glucose,molecular_function,ion   
+588,YER170W,46.54014468475207,IFFAFB,nucleus,G1B2 glucose,molecular_function,ion   
+589,YDR081C,103.6309518924958,IFFAFB,cytoplasm,G1B2 glucose,molecular_function,ion   
+590,YFL016C,27.75974955786449,IFFABF,mitochondria,E1B1 ethanol,tRNA,ion   
+591,YGR264C,27.3205130142274,IFFABF,mitochondria,E1B1 ethanol,tRNA,ion   
+592,YFR014C,65.88548154556446,IFFABF,nucleus,E1B1 ethanol,tRNA,ion   
+593,YER095W,23.20880141046216,SAASCC,mitochondria,pbs2 galactose,tRNA,ion   
+594,YLR270W,22.059664327638952,SAASCC,mitochondria,pbs2 galactose,tRNA,ion   
+595,YJR160C,39.56045694965141,SAASCC,nucleus,pbs2 galactose,tRNA,ion   
+596,YKR030W,22.80135848669755,IFFAFF,mitochondria,G2A1 glucose,tRNA,ion   
+597,YBR105C,26.175959542728787,IFFAFF,mitochondria,G2A1 glucose,tRNA,ion   
+598,YGL060W,44.87307350182078,IFFAFF,nucleus,G2A1 glucose,tRNA,ion   
+599,YDR477W,26.529933470339632,IFFAFA,mitochondria,G1A1 glucose,tRNA,ion   
+600,YDR324C,29.456029073685915,IFFAFA,mitochondria,G1A1 glucose,tRNA,ion   
+601,YGR191W,45.45201837197892,IFFAFA,nucleus,G1A1 glucose,tRNA,ion   
+602,YIL042C,33.82928133719095,INICIA,mitochondria,YB210 biofuel generation,tRNA,ion   
+603,YJL072C,17.7200997480524,INICIA,mitochondria,YB210 biofuel generation,tRNA,ion   
+604,YMR140W,40.272953972846366,INICIA,nucleus,YB210 biofuel generation,tRNA,ion   
+605,YIR019C,24.00243666115622,INICIF,mitochondria,YB211 biofuel generation,tRNA,ion   
+606,YOR356W,29.65818323073901,INICIF,mitochondria,YB211 biofuel generation,tRNA,ion   
+607,YGL053W,62.21321226541067,INICIF,nucleus,YB211 biofuel generation,tRNA,ion   
+608,YKL185W,12.3058128744533,SAABQI,mitochondria,30 deg temperature,tRNA,ion   
+609,YAR027W,11.676538352464211,SAABQI,mitochondria,30 deg temperature,tRNA,ion   
+610,YMR166C,29.156386185494465,SAABQI,nucleus,30 deg temperature,tRNA,ion   
+611,YLL026W,4.362096129325858,FFNAAA,mitochondria,Strain6 phenol lysis,tRNA,ion   
+612,YGL221C,10.047524792267426,FFNAAA,mitochondria,Strain6 phenol lysis,tRNA,ion   
+613,YDR206W,4.292696747218796,FFNARN,mitochondria,Strain6 phenol lysis,tRNA,ion   
+614,YKR081C,9.951251550370843,FFNARN,mitochondria,Strain6 phenol lysis,tRNA,ion   
+615,YBL069W,6.062337295236641,FFNAAR,mitochondria,Strain6 phenol lysis,tRNA,ion   
+616,YOL031C,10.04357372792936,FFNAAR,mitochondria,Strain6 phenol lysis,tRNA,ion   
+617,YDL159W,10.341598688626473,FFNAAA,nucleus,Strain6 phenol lysis,tRNA,ion   
+618,YHR192W,8.000025756180483,FFNARN,nucleus,Strain6 phenol lysis,tRNA,ion   
+619,YFR044C,8.052955511583,FFNAAR,nucleus,Strain6 phenol lysis,tRNA,ion   
+620,YGR119C,9.700258022413736,IFAAAR,mitochondria,DDY3630 strain W303,tRNA,ion   
+621,YDR538W,5.573198703244589,IFAAAR,mitochondria,DDY3630 strain W303,tRNA,ion   
+622,YNL059C,15.874160777505049,IFAAAR,nucleus,DDY3630 strain W303,tRNA,ion   
+623,YAL020C,2.790512679036129,AFIINC,mitochondria,itc1 itc1-1_dUTP,tRNA,ion   
+624,YAL056W,1.669425149167644,AFIINC,mitochondria,itc1 itc1-1_dUTP,tRNA,ion   
+625,YBL042C,7.36124475223528,AFIINC,nucleus,itc1 itc1-1_dUTP,tRNA,ion   
+626,YBL013W,30.656550005164963,IFFABN,mitochondria,E2B1 ethanol,tRNA,ion   
+627,YPL134C,29.856813918073705,IFFABN,mitochondria,E2B1 ethanol,tRNA,ion   
+628,YIL121W,67.17783131566583,IFFABN,nucleus,E2B1 ethanol,tRNA,ion   
+629,YGL035C,29.28983815255474,SAARRS,mitochondria,wild type salt stress,tRNA,ion   
+630,YJL087C,21.16794063402985,SAARRS,mitochondria,wild type salt stress,tRNA,ion   
+631,YJL041W,54.69529053538018,SAARRS,nucleus,wild type salt stress,tRNA,ion   
+632,YLR028C,14.677435299490908,SAABQR,mitochondria,37 deg temperature,tRNA,ion   
+633,YIL065C,9.065474743803208,SAABQR,mitochondria,37 deg temperature,tRNA,ion   
+634,YIL003W,25.502874004545287,SAABQR,nucleus,37 deg temperature,tRNA,ion   
+635,YOR129C,6.092975340317793,FAFASB,mitochondria,tet-control strain tet-control,tRNA,ion   
+636,YNL258C,4.914465636335272,FAFASB,mitochondria,tet-control strain tet-control,tRNA,ion   
+637,YGL098W,13.182740067450734,FAFASB,nucleus,tet-control strain tet-control,tRNA,ion   
+638,YKL119C,14.865660973835938,SAABBN,mitochondria,15 deg temperature,tRNA,ion   
+639,YDR458C,10.611178876946864,SAABBN,mitochondria,15 deg temperature,tRNA,ion   
+640,YLR086W,11.873267009515104,SAABFA,mitochondria,15 deg temperature,tRNA,ion   
+641,YMR170C,6.8318401443638495,SAABFA,mitochondria,15 deg temperature,tRNA,ion   
+642,YLR404W,30.83248201980787,SAABBN,nucleus,15 deg temperature,tRNA,ion   
+643,YKL179C,25.39559888146286,SAABFA,nucleus,15 deg temperature,tRNA,ion   
+644,YPL016W,28.672061467993338,SAASCF,mitochondria,ste12 galactose,tRNA,ion   
+645,YML102W,21.09335003336714,SAASCF,mitochondria,ste12 galactose,tRNA,ion   
+646,YGL216W,46.961726346354254,SAASCF,nucleus,ste12 galactose,tRNA,ion   
+647,YHR042W,21.063243996618457,INICIQ,mitochondria,YB212 biofuel generation,tRNA,ion   
+648,YBL075C,21.420248132154363,INICIQ,mitochondria,YB212 biofuel generation,tRNA,ion   
+649,YFL031W,33.73689080814312,INICIQ,nucleus,YB212 biofuel generation,tRNA,ion   
+650,YML065W,22.077670923092576,IFFAFQ,mitochondria,G2A2 glucose,tRNA,ion   
+651,YCL061C,25.5709732843414,IFFAFQ,mitochondria,G2A2 glucose,tRNA,ion   
+652,YJL145W,49.88435771863322,IFFAFQ,nucleus,G2A2 glucose,tRNA,ion   
+653,YPR009W,16.990983551526348,SAABRQ,mitochondria,wild type none,tRNA,ion   
+654,YKL178C,11.471260718212816,SAABRQ,mitochondria,wild type none,tRNA,ion   
+655,YBR132C,44.87121622999776,SAABRQ,nucleus,wild type none,tRNA,ion   
+656,YDL126C,20.74963629521692,IFFAFB,mitochondria,G1B2 glucose,tRNA,ion   
+657,YML051W,25.20436047159117,IFFAFB,mitochondria,G1B2 glucose,tRNA,ion   
+658,YPL192C,45.71953759963049,IFFAFB,nucleus,G1B2 glucose,tRNA,ion   
+659,YOR047C,95.13863535179507,IFFABF,mitochondria,E1B1 ethanol,ATP,ion   
+660,YBR005W,27.3205130142274,IFFABF,nucleus,E1B1 ethanol,ATP,ion   
+661,YLR168C,7.818410476740317,IFFABF,nucleus,E1B1 ethanol,ATP,ion   
+662,YBR149W,114.49926539999107,SAASCC,mitochondria,pbs2 galactose,ATP,ion   
+663,YHR011W,6.423864676110062,SAASCC,nucleus,pbs2 galactose,ATP,ion   
+664,YDL019C,2.731555360809264,SAASCC,nucleus,pbs2 galactose,ATP,ion   
+665,YPL112C,62.84054398933845,IFFAFF,mitochondria,G2A1 glucose,ATP,ion   
+666,YNL077W,21.798098713282855,IFFAFF,nucleus,G2A1 glucose,ATP,ion   
+667,YOR123C,8.57331079099828,IFFAFF,nucleus,G2A1 glucose,ATP,ion   
+668,YHR206W,81.15038473280357,IFFAFA,mitochondria,G1A1 glucose,ATP,ion   
+669,YBR172C,30.138784714466716,IFFAFA,nucleus,G1A1 glucose,ATP,ion   
+670,YMR164C,8.778286810038848,IFFAFA,nucleus,G1A1 glucose,ATP,ion   
+671,YOL122C,53.1602992441572,INICIA,mitochondria,YB210 biofuel generation,ATP,ion   
+672,YPL092W,6.443672635655418,INICIA,nucleus,YB210 biofuel generation,ATP,ion   
+673,YLL031C,9.665508953483128,INICIA,nucleus,YB210 biofuel generation,ATP,ion   
+674,YER162C,148.56680623026006,INICIF,mitochondria,YB211 biofuel generation,ATP,ion   
+675,YPL029W,16.69134963218335,INICIF,nucleus,YB211 biofuel generation,ATP,ion   
+676,YNL199C,17.105184747030872,INICIF,nucleus,YB211 biofuel generation,ATP,ion   
+677,YOR374W,31.53364549078658,SAABQI,mitochondria,30 deg temperature,ATP,ion   
+678,YKL064W,25.9400941842169,SAABQI,nucleus,30 deg temperature,ATP,ion   
+679,YFL008W,12.865168005110268,SAABQI,nucleus,30 deg temperature,ATP,ion   
+680,YMR034C,13.674436180695666,FFNAAA,mitochondria,Strain6 phenol lysis,ATP,ion   
+681,YFL050C,12.097599923980244,FFNARN,mitochondria,Strain6 phenol lysis,ATP,ion   
+682,YBL093C,14.929636622597696,FFNAAR,mitochondria,Strain6 phenol lysis,ATP,ion   
+683,YOL108C,6.518638035958866,FFNAAA,nucleus,Strain6 phenol lysis,ATP,ion   
+684,YDR217C,5.587404030821886,FFNAAA,nucleus,Strain6 phenol lysis,ATP,ion   
+685,YIL087C,4.09757416779976,FFNARN,nucleus,Strain6 phenol lysis,ATP,ion   
+686,YHR075C,3.512206429542651,FFNARN,nucleus,Strain6 phenol lysis,ATP,ion   
+687,YOR270C,5.881372002841517,FFNAAR,nucleus,Strain6 phenol lysis,ATP,ion   
+688,YLR350W,4.52413230987809,FFNAAR,nucleus,Strain6 phenol lysis,ATP,ion   
+689,YDR423C,125.39140874844914,IFAAAR,mitochondria,DDY3630 strain W303,ATP,ion   
+690,YLR329W,16.196761101644956,IFAAAR,nucleus,DDY3630 strain W303,ATP,ion   
+691,YPR161C,6.062661264008586,IFAAAR,nucleus,DDY3630 strain W303,ATP,ion   
+692,YPR004C,25.90144103764827,AFIINC,mitochondria,itc1 itc1-1_dUTP,ATP,ion   
+693,YCL045C,11.999580093567204,AFIINC,nucleus,itc1 itc1-1_dUTP,ATP,ion   
+694,YOR291W,3.9116002089046154,AFIINC,nucleus,itc1 itc1-1_dUTP,ATP,ion   
+695,YJL019W,104.36555936540942,IFFABN,mitochondria,E2B1 ethanol,ATP,ion   
+696,YKL002W,32.25602217934748,IFFABN,nucleus,E2B1 ethanol,ATP,ion   
+697,YMR059W,10.39656913218638,IFFABN,nucleus,E2B1 ethanol,ATP,ion   
+698,YOR153W,92.77404194469617,SAARRS,mitochondria,wild type salt stress,ATP,ion   
+699,YHR124W,3.217370031492952,SAARRS,nucleus,wild type salt stress,ATP,ion   
+700,YBR165W,2.569972403204736,SAARRS,nucleus,wild type salt stress,ATP,ion   
+701,YBR106W,20.05694778482468,SAABQR,mitochondria,37 deg temperature,ATP,ion   
+702,YOR056C,19.22677610498922,SAABQR,nucleus,37 deg temperature,ATP,ion   
+703,YFR031C,17.201157206190704,SAABQR,nucleus,37 deg temperature,ATP,ion   
+704,YPL031C,36.76896829273356,FAFASB,mitochondria,tet-control strain tet-control,ATP,ion   
+705,YMR182C,12.530684811732511,FAFASB,nucleus,tet-control strain tet-control,ATP,ion   
+706,YBL103C,5.2191144033511625,FAFASB,nucleus,tet-control strain tet-control,ATP,ion   
+707,YNL125C,72.97688114428551,SAABBN,mitochondria,15 deg temperature,ATP,ion   
+708,YJL106W,39.29485986482379,SAABFA,mitochondria,15 deg temperature,ATP,ion   
+709,YLL043W,40.09223717186056,SAABBN,nucleus,15 deg temperature,ATP,ion   
+710,YKL055C,30.882534750359508,SAABBN,nucleus,15 deg temperature,ATP,ion   
+711,YOR193W,25.91387640965598,SAABFA,nucleus,15 deg temperature,ATP,ion   
+712,YLR376C,14.84158376189388,SAABFA,nucleus,15 deg temperature,ATP,ion   
+713,YJR017C,99.1365547777982,SAASCF,mitochondria,ste12 galactose,ATP,ion   
+714,YNL263C,5.979734744661712,SAASCF,nucleus,ste12 galactose,ATP,ion   
+715,YDL164C,2.8255889452797103,SAASCF,nucleus,ste12 galactose,ATP,ion   
+716,YPL180W,52.65810999154614,INICIQ,mitochondria,YB212 biofuel generation,ATP,ion   
+717,YDR128W,9.46060959170151,INICIQ,nucleus,YB212 biofuel generation,ATP,ion   
+718,YNL006W,8.835852354513674,INICIQ,nucleus,YB212 biofuel generation,ATP,ion   
+719,YIL117C,68.60845837492693,IFFAFQ,mitochondria,G2A2 glucose,ATP,ion   
+720,YER028C,24.033920245391915,IFFAFQ,nucleus,G2A2 glucose,ATP,ion   
+721,YFL033C,8.80312195034704,IFFAFQ,nucleus,G2A2 glucose,ATP,ion   
+722,YOL103W,78.57156482114671,SAABRQ,mitochondria,wild type none,ATP,ion   
+723,YDR270W,40.815909658583735,SAABRQ,nucleus,wild type none,ATP,ion   
+724,YGR094W,17.1975037935891,SAABRQ,nucleus,wild type none,ATP,ion   
+725,YBR168W,79.36442808961499,IFFAFB,mitochondria,G1B2 glucose,ATP,ion   
+726,YDL185W,29.19016631361024,IFFAFB,nucleus,G1B2 glucose,ATP,ion   
+727,YNR048W,8.79221876915971,IFFAFB,nucleus,G1B2 glucose,ATP,ion   
+728,YHR162W,3.601739657824191,IFFABF,mitochondria,E1B1 ethanol,hydrolase,ion   
+729,YCR066W,2.1852442886474117,SAASCC,mitochondria,pbs2 galactose,hydrolase,ion   
+730,YKR092C,4.104244527605559,IFFAFF,mitochondria,G2A1 glucose,hydrolase,ion   
+731,YGR037C,4.681752965354052,IFFAFA,mitochondria,G1A1 glucose,hydrolase,ion   
+732,YNL330C,3.221836317827709,INICIA,mitochondria,YB210 biofuel generation,hydrolase,ion   
+733,YLL006W,17.24312978531338,INICIF,mitochondria,YB211 biofuel generation,hydrolase,ion   
+734,YLR440C,4.964276784580592,SAABQI,mitochondria,30 deg temperature,hydrolase,ion   
+735,YML010W,15.63492882308931,FFNAAA,mitochondria,Strain6 phenol lysis,hydrolase,ion   
+736,YLR210W,13.75614184904205,FFNARN,mitochondria,Strain6 phenol lysis,hydrolase,ion   
+737,YCR017C,13.11998369864646,FFNAAR,mitochondria,Strain6 phenol lysis,hydrolase,ion   
+738,YEL052W,0.6896972447129033,IFAAAR,mitochondria,DDY3630 strain W303,hydrolase,ion   
+739,YOR027W,0.4882458254033604,AFIINC,mitochondria,itc1 itc1-1_dUTP,hydrolase,ion   
+740,YPL081W,6.531178044578623,IFFABN,mitochondria,E2B1 ethanol,hydrolase,ion   
+741,YHL028W,3.825531439884912,SAARRS,mitochondria,wild type salt stress,hydrolase,ion   
+742,YDL204W,1.5939296252840804,SAABQR,mitochondria,37 deg temperature,hydrolase,ion   
+743,YGL201C,0.6092975340317793,FAFASB,mitochondria,tet-control strain tet-control,hydrolase,ion   
+744,YBR121C,1.7518455693072654,SAABBN,mitochondria,15 deg temperature,hydrolase,ion   
+745,YLR190W,2.21445852955242,SAABFA,mitochondria,15 deg temperature,hydrolase,ion   
+746,YNL064C,3.088434428561544,SAASCF,mitochondria,ste12 galactose,hydrolase,ion   
+747,YIL136W,6.158321337994379,INICIQ,mitochondria,YB212 biofuel generation,hydrolase,ion   
+748,YOR098C,4.750891211298402,IFFAFQ,mitochondria,G2A2 glucose,hydrolase,ion   
+749,YBR274W,2.1590752579287624,SAABRQ,mitochondria,wild type none,hydrolase,ion   
+750,YDR180W,5.509790428673418,IFFAFB,mitochondria,G1B2 glucose,hydrolase,ion   
+751,YFL036W,0.0878473087274192,IFFABF,nucleus,E1B1 ethanol,dehydrogenase,ion   
+752,YIL051C,0.3767662566633467,SAASCC,nucleus,pbs2 galactose,dehydrogenase,ion   
+753,YNR010W,0.3648217357871608,IFFAFF,nucleus,G2A1 glucose,dehydrogenase,ion   
+754,YFR034C,0.1950730402230855,IFFAFA,nucleus,G1A1 glucose,dehydrogenase,ion   
+755,YHR070W,0.0,INICIA,nucleus,YB210 biofuel generation,dehydrogenase,ion   
+756,YNL112W,0.0,INICIF,nucleus,YB211 biofuel generation,dehydrogenase,ion   
+757,YHL047C,0.0,SAABQI,nucleus,30 deg temperature,dehydrogenase,ion   
+758,YOR335C,0.1470369481795232,FFNAAA,nucleus,Strain6 phenol lysis,dehydrogenase,ion   
+759,YGR120C,0.1951225794190361,FFNARN,nucleus,Strain6 phenol lysis,dehydrogenase,ion   
+760,YDR438W,0.1809652923951236,FFNAAR,nucleus,Strain6 phenol lysis,dehydrogenase,ion   
+761,YLR193C,0.0,IFAAAR,nucleus,DDY3630 strain W303,dehydrogenase,ion   
+762,YOL147C,0.0169008170331932,AFIINC,nucleus,itc1 itc1-1_dUTP,dehydrogenase,ion   
+763,YPL122C,0.39986804354563,IFFABN,nucleus,E2B1 ethanol,dehydrogenase,ion   
+764,YGL179C,0.4512165288069384,SAARRS,nucleus,wild type salt stress,dehydrogenase,ion   
+765,YLL028W,0.0332068671934183,SAABQR,nucleus,37 deg temperature,dehydrogenase,ion   
+766,YLR026C,0.0293959336594279,FAFASB,nucleus,tet-control strain tet-control,dehydrogenase,ion   
+767,YHR094C,0.2002109222065446,SAABBN,nucleus,15 deg temperature,dehydrogenase,ion   
+768,YPL233W,0.0,SAABFA,nucleus,15 deg temperature,dehydrogenase,ion   
+769,YDL033C,0.350460644375778,SAASCF,nucleus,ste12 galactose,dehydrogenase,ion   
+770,YGL247W,0.0,INICIQ,nucleus,YB212 biofuel generation,dehydrogenase,ion   
+771,YOR255W,0.279464188899906,IFFAFQ,nucleus,G2A2 glucose,dehydrogenase,ion   
+772,YHR024C,0.2440693769832514,SAABRQ,nucleus,wild type none,dehydrogenase,ion   
+773,YGR251W,0.1172295835887961,IFFAFB,nucleus,G1B2 glucose,dehydrogenase,ion   
+774,YGR270W,88.19869796232896,IFFABF,nucleus,E1B1 ethanol,snRNA binding,ion   
+775,YOR332W,38.95763093899005,SAASCC,nucleus,pbs2 galactose,snRNA binding,ion   
+776,YDR046C,129.96774337417602,IFFAFF,nucleus,G2A1 glucose,snRNA binding,ion   
+777,YDL245C,157.1313338996954,IFFAFA,nucleus,G1A1 glucose,snRNA binding,ion   
+778,YDL210W,51.54938108524335,INICIA,nucleus,YB210 biofuel generation,snRNA binding,ion   
+779,YDR479C,76.14566113194388,INICIF,nucleus,YB211 biofuel generation,snRNA binding,ion   
+780,YJL168C,35.868647753378085,SAABQI,nucleus,30 deg temperature,snRNA binding,ion   
+781,YPL020C,54.94280630308187,FFNAAA,nucleus,Strain6 phenol lysis,snRNA binding,ion   
+782,YLR399C,40.19525136032146,FFNARN,nucleus,Strain6 phenol lysis,snRNA binding,ion   
+783,YOR222W,45.33180574497846,FFNAAR,nucleus,Strain6 phenol lysis,snRNA binding,ion   
+784,YAR031W,145.04778022276687,IFAAAR,nucleus,DDY3630 strain W303,snRNA binding,ion   
+785,YDR295C,17.267001402245764,AFIINC,nucleus,itc1 itc1-1_dUTP,snRNA binding,ion   
+786,YHR134W,101.29990436489292,IFFABN,nucleus,E2B1 ethanol,snRNA binding,ion   
+787,YBR186W,60.83575894914417,SAARRS,nucleus,wild type salt stress,snRNA binding,ion   
+788,YPL211W,33.63855646693278,SAABQR,nucleus,37 deg temperature,snRNA binding,ion   
+789,YLR008C,37.25266501931142,FAFASB,nucleus,tet-control strain tet-control,snRNA binding,ion   
+790,YJL191W,79.43368338544657,SAABBN,nucleus,15 deg temperature,snRNA binding,ion   
+791,YOR051C,61.53367743820129,SAABFA,nucleus,15 deg temperature,snRNA binding,ion   
+792,YMR219W,49.30543190561727,SAASCF,nucleus,ste12 galactose,snRNA binding,ion   
+793,YGR055W,73.36434985262869,INICIQ,nucleus,YB212 biofuel generation,snRNA binding,ion   
+794,YER174C,135.67986371090436,IFFAFQ,nucleus,G2A2 glucose,snRNA binding,ion   
+795,YCL048W,266.3547885585683,SAABRQ,nucleus,wild type none,snRNA binding,ion   
+796,YOR040W,158.84608576281877,IFFAFB,nucleus,G1B2 glucose,snRNA binding,ion   
+797,YBR097W,51.566370222995126,IFFABF,nucleus,E1B1 ethanol,molecular_function,ion regulation  
+798,YBR016W,14.055569396387089,IFFABF,nucleus,E1B1 ethanol,molecular_function,ion regulation  
+799,YPL221W,27.88070299308766,SAASCC,nucleus,pbs2 galactose,molecular_function,ion regulation  
+800,YLL035W,15.089488579367035,SAASCC,nucleus,pbs2 galactose,molecular_function,ion regulation  
+801,YPL274W,50.43660497257498,IFFAFF,nucleus,G2A1 glucose,molecular_function,ion regulation  
+802,YPR056W,14.410458563592853,IFFAFF,nucleus,G2A1 glucose,molecular_function,ion regulation  
+803,YEL051W,49.06086961610601,IFFAFA,nucleus,G1A1 glucose,molecular_function,ion regulation  
+804,YDR392W,13.75264933572753,IFFAFA,nucleus,G1A1 glucose,molecular_function,ion regulation  
+805,YMR150C,64.43672635655419,INICIA,nucleus,YB210 biofuel generation,molecular_function,ion regulation  
+806,YNL173C,6.443672635655418,INICIA,nucleus,YB210 biofuel generation,molecular_function,ion regulation  
+807,YFL007W,53.79856493017774,INICIF,nucleus,YB211 biofuel generation,molecular_function,ion regulation  
+808,YKL051W,9.656152679775492,INICIF,nucleus,YB211 biofuel generation,molecular_function,ion regulation  
+809,YPR104C,28.527111663505377,SAABQI,nucleus,30 deg temperature,molecular_function,ion regulation  
+810,YLR223C,2.72685626195272,SAABQI,nucleus,30 deg temperature,molecular_function,ion regulation  
+811,YPR151C,12.645177543439004,FFNAAA,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+812,YPR138C,3.626911388428241,FFNAAA,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+813,YDR089W,8.585393494437591,FFNARN,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+814,YDL160C,1.853664504480844,FFNARN,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+815,YIR024C,11.672261359485471,FFNAAR,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+816,YPL145C,3.257375263112225,FFNAAR,nucleus,Strain6 phenol lysis,molecular_function,ion regulation  
+817,YML028W,13.148744245978254,IFAAAR,nucleus,DDY3630 strain W303,molecular_function,ion regulation  
+818,YHR079C,2.9701478119087934,IFAAAR,nucleus,DDY3630 strain W303,molecular_function,ion regulation  
+819,YHL006C,6.059881840679401,AFIINC,nucleus,itc1 itc1-1_dUTP,molecular_function,ion regulation  
+820,YGR158C,0.754903160815965,AFIINC,nucleus,itc1 itc1-1_dUTP,molecular_function,ion regulation  
+821,YNL167C,49.31705870396103,IFFABN,nucleus,E2B1 ethanol,molecular_function,ion regulation  
+822,YLR301W,15.594853698279568,IFFABN,nucleus,E2B1 ethanol,molecular_function,ion regulation  
+823,YKL041W,47.43658985457292,SAARRS,nucleus,wild type salt stress,molecular_function,ion regulation  
+824,YJR054W,12.477117927009251,SAARRS,nucleus,wild type salt stress,molecular_function,ion regulation  
+825,YLR237W,27.86056157527799,SAABQR,nucleus,37 deg temperature,molecular_function,ion regulation  
+826,YNL002C,4.981030079012752,SAABQR,nucleus,37 deg temperature,molecular_function,ion regulation  
+827,YJR008W,10.820375944274888,FAFASB,nucleus,tet-control strain tet-control,molecular_function,ion regulation  
+828,YPL190C,3.0945901070561423,FAFASB,nucleus,tet-control strain tet-control,molecular_function,ion regulation  
+829,YIL031W,38.290338872001655,SAABBN,nucleus,15 deg temperature,molecular_function,ion regulation  
+830,YHR009C,2.8530056414432607,SAABBN,nucleus,15 deg temperature,molecular_function,ion regulation  
+831,YPR083W,26.479270076775748,SAABFA,nucleus,15 deg temperature,molecular_function,ion regulation  
+832,YLR447C,0.8952066396062974,SAABFA,nucleus,15 deg temperature,molecular_function,ion regulation  
+833,YLR335W,30.35865331905177,SAASCF,nucleus,ste12 galactose,molecular_function,ion regulation  
+834,YGR185C,2.584647252271363,SAASCF,nucleus,ste12 galactose,molecular_function,ion regulation  
+835,YJR088C,52.568858957662165,INICIQ,nucleus,YB212 biofuel generation,molecular_function,ion regulation  
+836,YGL172W,7.318584778486074,INICIQ,nucleus,YB212 biofuel generation,molecular_function,ion regulation  
+837,YDR282C,50.163821907533126,IFFAFQ,nucleus,G2A2 glucose,molecular_function,ion regulation  
+838,YGL045W,13.414281067195487,IFFAFQ,nucleus,G2A2 glucose,molecular_function,ion regulation  
+839,YOR046C,39.87718128557123,SAABRQ,nucleus,wild type none,molecular_function,ion regulation  
+840,YER106W,4.787514702363778,SAABRQ,nucleus,wild type none,molecular_function,ion regulation  
+841,YEL018W,46.18845593398568,IFFAFB,nucleus,G1B2 glucose,molecular_function,ion regulation  
+842,YBL107C,14.770927532188312,IFFAFB,nucleus,G1B2 glucose,molecular_function,ion regulation  
+843,YOR231W,202.31235199924663,IFFABF,cytoplasm,E1B1 ethanol,tRNA,ion regulation  
+844,YPR036W,99.80538139012056,SAASCC,cytoplasm,pbs2 galactose,tRNA,ion regulation  
+845,YGR235C,142.73650412672666,IFFAFF,cytoplasm,G2A1 glucose,tRNA,ion regulation  
+846,YLR383W,153.03480005501058,IFFAFA,cytoplasm,G1A1 glucose,tRNA,ion regulation  
+847,YDR037W,138.5389616665915,INICIA,cytoplasm,YB210 biofuel generation,tRNA,ion regulation  
+848,YGL051W,168.9826718960711,INICIF,cytoplasm,YB211 biofuel generation,tRNA,ion regulation  
+849,YDR219C,132.49724657436934,SAABQI,cytoplasm,30 deg temperature,tRNA,ion regulation  
+850,YFL002C,20.48714811301358,FFNAAA,cytoplasm,Strain6 phenol lysis,tRNA,ion regulation  
+851,YAL038W,14.731754746137232,FFNARN,cytoplasm,Strain6 phenol lysis,tRNA,ion regulation  
+852,YPL129W,22.258730964600204,FFNAAR,cytoplasm,Strain6 phenol lysis,tRNA,ion regulation  
+853,YGL181W,139.6303196070381,IFAAAR,cytoplasm,DDY3630 strain W303,tRNA,ion regulation  
+854,YJL176C,151.7543140096014,AFIINC,cytoplasm,itc1 itc1-1_dUTP,tRNA,ion regulation  
+855,YPR154W,193.5361330760849,IFFABN,cytoplasm,E2B1 ethanol,tRNA,ion regulation  
+856,YKL122C,139.3081987416552,SAARRS,cytoplasm,wild type salt stress,tRNA,ion regulation  
+857,YOL119C,101.57980674466673,SAABQR,cytoplasm,37 deg temperature,tRNA,ion regulation  
+858,YIL147C,160.37619697302267,FAFASB,cytoplasm,tet-control strain tet-control,tRNA,ion regulation  
+859,YEL031W,143.90160033595393,SAABBN,cytoplasm,15 deg temperature,tRNA,ion regulation  
+860,YOR025W,133.38578930133832,SAABFA,cytoplasm,15 deg temperature,tRNA,ion regulation  
+861,YNL298W,82.42396279912829,SAASCF,cytoplasm,ste12 galactose,tRNA,ion regulation  
+862,YFR004W,92.37482006991569,INICIQ,cytoplasm,YB212 biofuel generation,tRNA,ion regulation  
+863,YML128C,145.740574511301,IFFAFQ,cytoplasm,G2A2 glucose,tRNA,ion regulation  
+864,YGL256W,324.2367800385194,SAABRQ,cytoplasm,wild type none,tRNA,ion regulation  
+865,YER184C,172.32748787553032,IFFAFB,cytoplasm,G1B2 glucose,tRNA,ion regulation  
+866,YCR021C,14.055569396387089,IFFABF,nucleus,E1B1 ethanol,ATP,ion regulation  
+867,YNL318C,6.216643234945221,SAASCC,nucleus,pbs2 galactose,ATP,ion regulation  
+868,YML006C,12.221528148869886,IFFAFF,nucleus,G2A1 glucose,ATP,ion regulation  
+869,YPR046W,13.850185855839072,IFFAFA,nucleus,G1A1 glucose,ATP,ion regulation  
+870,YDR439W,3.221836317827709,INICIA,nucleus,YB210 biofuel generation,ATP,ion regulation  
+871,YLR401C,8.138757258667914,INICIF,nucleus,YB211 biofuel generation,ATP,ion regulation  
+872,YDL130W,5.034196175912713,SAABQI,nucleus,30 deg temperature,ATP,ion regulation  
+873,YKL067W,1.0782709533165042,FFNAAA,nucleus,Strain6 phenol lysis,ATP,ion regulation  
+874,YNL076W,1.170735476514217,FFNARN,nucleus,Strain6 phenol lysis,ATP,ion regulation  
+875,YBR173C,1.4477223391609888,FFNAAR,nucleus,Strain6 phenol lysis,ATP,ion regulation  
+876,YNL323W,5.884674878276224,IFAAAR,nucleus,DDY3630 strain W303,ATP,ion regulation  
+877,YGL166W,2.873138895642852,AFIINC,nucleus,itc1 itc1-1_dUTP,ATP,ion regulation  
+878,YBL024W,15.461564350431026,IFFABN,nucleus,E2B1 ethanol,ATP,ion regulation  
+879,YOR071C,8.004188858836125,SAARRS,nucleus,wild type salt stress,ATP,ion regulation  
+880,YLR182W,6.076856696395557,SAABQR,nucleus,37 deg temperature,ATP,ion regulation  
+881,YIR022W,4.812916047329976,FAFASB,nucleus,tet-control strain tet-control,ATP,ion regulation  
+882,YMR308C,7.7581732355036035,SAABBN,nucleus,15 deg temperature,ATP,ion regulation  
+883,YNL260C,6.973188561143791,SAABFA,nucleus,15 deg temperature,ATP,ion regulation  
+884,YMR183C,1.7961108024258623,SAASCF,nucleus,ste12 galactose,ATP,ion regulation  
+885,YDR414C,6.069070304110403,INICIQ,nucleus,YB212 biofuel generation,ATP,ion regulation  
+886,YBL020W,11.318299650446193,IFFAFQ,nucleus,G2A2 glucose,ATP,ion regulation  
+887,YCL034W,9.349734595204554,SAABRQ,nucleus,wild type none,ATP,ion regulation  
+888,YOL109W,13.012483778356373,IFFAFB,nucleus,G1B2 glucose,ATP,ion regulation  
+889,YNL128W,266.7922766051724,IFFABF,cytoplasm,E1B1 ethanol,molecular_function,biological_process   
+890,YHR120W,78.57460282714096,SAASCC,cytoplasm,pbs2 galactose,molecular_function,biological_process   
+891,YER111C,242.8800706003023,IFFAFF,cytoplasm,G2A1 glucose,molecular_function,biological_process   
+892,YOL039W,210.6788834409324,IFFAFA,cytoplasm,G1A1 glucose,molecular_function,biological_process   
+893,YDR411C,330.2382225773402,INICIA,cytoplasm,YB210 biofuel generation,molecular_function,biological_process   
+894,YOR197W,224.1606872090739,INICIF,cytoplasm,YB211 biofuel generation,molecular_function,biological_process   
+895,YDL014W,86.8398840344943,SAABQI,cytoplasm,30 deg temperature,molecular_function,biological_process   
+896,YDR260C,48.71824216348205,FFNAAA,cytoplasm,Strain6 phenol lysis,molecular_function,biological_process   
+897,YCR010C,45.36599971492591,FFNARN,cytoplasm,Strain6 phenol lysis,molecular_function,biological_process   
+898,YGL180W,53.02283067177122,FFNAAR,cytoplasm,Strain6 phenol lysis,molecular_function,biological_process   
+899,YOR230W,38.34494197621577,IFAAAR,cytoplasm,DDY3630 strain W303,molecular_function,biological_process   
+900,YOR307C,14.294335472963,AFIINC,cytoplasm,itc1 itc1-1_dUTP,molecular_function,biological_process   
+901,YBR095C,201.8000726426946,IFFABN,cytoplasm,E2B1 ethanol,molecular_function,biological_process   
+902,YDR036C,87.5752428084423,SAARRS,cytoplasm,wild type salt stress,molecular_function,biological_process   
+903,YMR125W,42.47158314038206,SAABQR,cytoplasm,37 deg temperature,molecular_function,biological_process   
+904,YGL123W,24.22224933536863,FAFASB,cytoplasm,tet-control strain tet-control,molecular_function,biological_process   
+905,YPL086C,67.47108078360553,SAABBN,cytoplasm,15 deg temperature,molecular_function,biological_process   
+906,YNL161W,58.23554771333598,SAABFA,cytoplasm,15 deg temperature,molecular_function,biological_process   
+907,YMR042W,76.15947878091126,SAASCF,cytoplasm,ste12 galactose,molecular_function,biological_process   
+908,YMR078C,182.96461946215183,INICIQ,cytoplasm,YB212 biofuel generation,molecular_function,biological_process   
+909,YKL016C,213.5106403195282,IFFAFQ,cytoplasm,G2A2 glucose,molecular_function,biological_process   
+910,YLR380W,135.40218052332378,SAABRQ,cytoplasm,wild type none,molecular_function,biological_process   
+911,YIL033C,190.73253249897127,IFFAFB,cytoplasm,G1B2 glucose,molecular_function,biological_process   
+912,YER166W,41.11254048443222,IFFABF,cytoplasm,E1B1 ethanol,transcription,biological_process   
+913,YDL194W,29.36892970690788,SAASCC,cytoplasm,pbs2 galactose,transcription,biological_process   
+914,YIL021W,31.55708014558941,IFFAFF,cytoplasm,G2A1 glucose,transcription,biological_process   
+915,YGL115W,32.86980727758991,IFFAFA,cytoplasm,G1A1 glucose,transcription,biological_process   
+916,YNL183C,46.71662660850178,INICIA,cytoplasm,YB210 biofuel generation,transcription,biological_process   
+917,YGR192C,53.108839738765205,INICIF,cytoplasm,YB211 biofuel generation,transcription,biological_process   
+918,YNL329C,28.946628011498102,SAABQI,cytoplasm,30 deg temperature,transcription,biological_process   
+919,YLL002W,13.674436180695666,FFNAAA,cytoplasm,Strain6 phenol lysis,transcription,biological_process   
+920,YHR065C,8.68295478414711,FFNARN,cytoplasm,Strain6 phenol lysis,transcription,biological_process   
+921,YPL133C,12.396122529065966,FFNAAR,cytoplasm,Strain6 phenol lysis,transcription,biological_process   
+922,YBR008C,17.85425931877758,IFAAAR,cytoplasm,DDY3630 strain W303,transcription,biological_process   
+923,YLR141W,9.642855051716367,AFIINC,cytoplasm,itc1 itc1-1_dUTP,transcription,biological_process   
+924,YPL159C,41.18640848519989,IFFABN,cytoplasm,E2B1 ethanol,transcription,biological_process   
+925,YDR096W,27.602680697015757,SAARRS,cytoplasm,wild type salt stress,transcription,biological_process   
+926,YKL196C,47.58544068816849,SAABQR,cytoplasm,37 deg temperature,transcription,biological_process   
+927,YOR306C,20.315262516270117,FAFASB,cytoplasm,tet-control strain tet-control,transcription,biological_process   
+928,YGR040W,31.88358936139223,SAABBN,cytoplasm,15 deg temperature,transcription,biological_process   
+929,YOL038W,29.44758682915452,SAABFA,cytoplasm,15 deg temperature,transcription,biological_process   
+930,YJL140W,27.379737841857654,SAASCF,cytoplasm,ste12 galactose,transcription,biological_process   
+931,YOL138C,39.18120387506569,INICIQ,cytoplasm,YB212 biofuel generation,transcription,biological_process   
+932,YMR161W,32.27811381793914,IFFAFQ,cytoplasm,G2A2 glucose,transcription,biological_process   
+933,YER078C,59.008465527566095,SAABRQ,cytoplasm,wild type none,transcription,biological_process   
+934,YML014W,35.28610466022764,IFFAFB,cytoplasm,G1B2 glucose,transcription,biological_process   
+935,YDR432W,72.21048777393865,IFFABF,cytosol,E1B1 ethanol,molecular_function,protein catabolic process  
+936,YGR195W,48.03769772457671,SAASCC,cytosol,pbs2 galactose,molecular_function,protein catabolic process  
+937,YHR036W,55.17928753780807,IFFAFF,cytosol,G2A1 glucose,molecular_function,protein catabolic process  
+938,YML116W,80.56516561213432,IFFAFA,cytosol,G1A1 glucose,molecular_function,protein catabolic process  
+939,YNR056C,33.82928133719095,INICIA,cytosol,YB210 biofuel generation,molecular_function,protein catabolic process  
+940,YDR185C,88.00893442423948,INICIF,cytosol,YB211 biofuel generation,molecular_function,protein catabolic process  
+941,YML034W,51.67043019443744,SAABQI,cytosol,30 deg temperature,molecular_function,protein catabolic process  
+942,YLR144C,10.047524792267426,FFNAAA,cytosol,Strain6 phenol lysis,molecular_function,protein catabolic process  
+943,YDR107C,9.756128970951808,FFNARN,cytosol,Strain6 phenol lysis,molecular_function,protein catabolic process  
+944,YNL044W,9.9530910817318,FFNAAR,cytosol,Strain6 phenol lysis,molecular_function,protein catabolic process  
+945,YPR058W,19.111288168012383,IFAAAR,cytosol,DDY3630 strain W303,molecular_function,protein catabolic process  
+946,YDL020C,10.566766382864266,AFIINC,cytosol,itc1 itc1-1_dUTP,molecular_function,protein catabolic process  
+947,YMR284W,85.57176131876481,IFFABN,cytosol,E2B1 ethanol,molecular_function,protein catabolic process  
+948,YMR035W,90.85146716977964,SAARRS,cytosol,wild type salt stress,molecular_function,protein catabolic process  
+949,YPR005C,41.276135921419005,SAABQR,cytosol,37 deg temperature,molecular_function,protein catabolic process  
+950,YGR260W,20.724133229896704,FAFASB,cytosol,tet-control strain tet-control,molecular_function,protein catabolic process  
+951,YLR274W,46.34882849081508,SAABBN,cytosol,15 deg temperature,molecular_function,protein catabolic process  
+952,YGR138C,40.23718264335674,SAABFA,cytosol,15 deg temperature,molecular_function,protein catabolic process  
+953,YNL142W,59.46879059251484,SAASCF,cytosol,ste12 galactose,molecular_function,protein catabolic process  
+954,YHR019C,60.779954074988005,INICIQ,cytosol,YB212 biofuel generation,molecular_function,protein catabolic process  
+955,YIL078W,61.06292527462946,IFFAFQ,cytosol,G2A2 glucose,molecular_function,protein catabolic process  
+956,YDR375C,54.31482366250357,SAABRQ,cytosol,wild type none,molecular_function,protein catabolic process  
+957,YNR002C,70.57220932045527,IFFAFB,cytosol,G1B2 glucose,molecular_function,protein catabolic process  
+958,YDL106C,141.69770897732732,IFFABF,cytoplasm,E1B1 ethanol,tRNA,protein catabolic process  
+959,YER056C,44.59028647610709,SAASCC,cytoplasm,pbs2 galactose,tRNA,protein catabolic process  
+960,YLR084C,115.01005220690244,IFFAFF,cytoplasm,G2A1 glucose,tRNA,protein catabolic process  
+961,YMR080C,127.38269526567484,IFFAFA,cytoplasm,G1A1 glucose,tRNA,protein catabolic process  
+962,YMR037C,56.38213556198491,INICIA,cytoplasm,YB210 biofuel generation,tRNA,protein catabolic process  
+963,YGR266W,76.83538632335642,INICIF,cytoplasm,YB211 biofuel generation,tRNA,protein catabolic process  
+964,YOR005C,28.597031054837498,SAABQI,cytoplasm,30 deg temperature,tRNA,protein catabolic process  
+965,YGL092W,12.008017434661069,FFNAAA,cytoplasm,Strain6 phenol lysis,tRNA,protein catabolic process  
+966,YER142C,9.756128970951808,FFNARN,cytoplasm,Strain6 phenol lysis,tRNA,protein catabolic process  
+967,YOL102C,10.04357372792936,FFNAAR,cytoplasm,Strain6 phenol lysis,tRNA,protein catabolic process  
+968,YJL125C,14.450269691646152,IFAAAR,cytoplasm,DDY3630 strain W303,tRNA,protein catabolic process  
+969,YBR107C,10.82779011259914,AFIINC,cytoplasm,itc1 itc1-1_dUTP,tRNA,protein catabolic process  
+970,YPL049C,169.67733981119565,IFFABN,cytoplasm,E2B1 ethanol,tRNA,protein catabolic process  
+971,YPL036W,56.2647393312304,SAARRS,cytoplasm,wild type salt stress,tRNA,protein catabolic process  
+972,YAL001C,25.27042593419136,SAABQR,cytoplasm,37 deg temperature,tRNA,protein catabolic process  
+973,YEL065W,25.14688506683791,FAFASB,cytoplasm,tet-control strain tet-control,tRNA,protein catabolic process  
+974,YNL207W,19.5205649151381,SAABBN,cytoplasm,15 deg temperature,tRNA,protein catabolic process  
+975,YGL091C,23.0397919351305,SAABFA,cytoplasm,15 deg temperature,tRNA,protein catabolic process  
+976,YER128W,49.76541150136048,SAASCF,cytoplasm,ste12 galactose,tRNA,protein catabolic process  
+977,YGL186C,66.75977334521443,INICIQ,cytoplasm,YB212 biofuel generation,tRNA,protein catabolic process  
+978,YER048C,116.95576305461066,IFFAFQ,cytoplasm,G2A2 glucose,tRNA,protein catabolic process  
+979,YMR063W,51.7051587855288,SAABRQ,cytoplasm,wild type none,tRNA,protein catabolic process  
+980,YMR014W,132.00051112098444,IFFAFB,cytoplasm,G1B2 glucose,tRNA,protein catabolic process  
+981,YBL102W,39.26774700115642,IFFABF,membrane,E1B1 ethanol,receptor,transport ion  
+982,YLR120C,13.431717050048311,SAASCC,membrane,pbs2 galactose,receptor,transport ion  
+983,YNL068C,44.41704633208683,IFFAFF,membrane,G2A1 glucose,receptor,transport ion  
+984,YDR146C,49.15840613621755,IFFAFA,membrane,G1A1 glucose,receptor,transport ion  
+985,YBR112C,25.774690542621677,INICIA,membrane,YB210 biofuel generation,receptor,transport ion  
+986,YKL157W,56.41952065754537,INICIF,membrane,YB211 biofuel generation,receptor,transport ion  
+987,YPL005W,13.00500678777451,SAABQI,membrane,30 deg temperature,receptor,transport ion  
+988,YIL101C,23.133813180245,FFNAAA,membrane,Strain6 phenol lysis,receptor,transport ion  
+989,YJR158W,13.658580559332531,FFNARN,membrane,Strain6 phenol lysis,receptor,transport ion  
+990,YDR342C,18.0060465933148,FFNAAR,membrane,Strain6 phenol lysis,receptor,transport ion  
+991,YPL101W,5.606571150569407,IFAAAR,membrane,DDY3630 strain W303,receptor,transport ion  
+992,YLR451W,2.2928775108365502,AFIINC,membrane,itc1 itc1-1_dUTP,receptor,transport ion  
+993,YLR323C,43.45232739862512,IFFABN,membrane,E2B1 ethanol,receptor,transport ion  
+994,YOR341W,14.831291120784584,SAARRS,membrane,wild type salt stress,receptor,transport ion  
+995,YMR198W,9.62999148609132,SAABQR,membrane,37 deg temperature,receptor,transport ion  
+996,YBR020W,4.698004670297666,FAFASB,membrane,tet-control strain tet-control,receptor,transport ion  
+997,YLR418C,13.66439544059667,SAABBN,membrane,15 deg temperature,receptor,transport ion  
+998,YOR223W,10.55401511956898,SAABFA,membrane,15 deg temperature,receptor,transport ion  
+999,YPL153C,15.902151738550929,SAASCF,membrane,ste12 galactose,receptor,transport ion  
+1000,YBL025W,41.14472662051317,INICIQ,membrane,YB212 biofuel generation,receptor,transport ion  
+1001,YNL265C,43.87587765728525,IFFAFQ,membrane,G2A2 glucose,receptor,transport ion  
+1002,YMR058W,15.338821615024338,SAABRQ,membrane,wild type none,receptor,transport ion  
+1003,YOR290C,49.70534344164956,IFFAFB,membrane,G1B2 glucose,receptor,transport ion  
+1004,YLR268W,152.76646987698214,IFFABF,membrane,E1B1 ethanol,transmembrane,transport ion  
+1005,YKR039W,82.04938635140961,IFFABF,mitochondria,E1B1 ethanol,transmembrane,transport ion  
+1006,YNL103W,76.78496310799007,SAASCC,membrane,pbs2 galactose,transmembrane,transport ion  
+1007,YPL009C,78.48041126297512,SAASCC,mitochondria,pbs2 galactose,transmembrane,transport ion  
+1008,YDR312W,211.4141958886597,IFFAFF,membrane,G2A1 glucose,transmembrane,transport ion  
+1009,YDR268W,67.21840481878438,IFFAFF,mitochondria,G2A1 glucose,transmembrane,transport ion  
+1010,YLR348C,230.77140658391016,IFFAFA,membrane,G1A1 glucose,transmembrane,transport ion  
+1011,YMR293C,64.17903023339514,IFFAFA,mitochondria,G1A1 glucose,transmembrane,transport ion  
+1012,YHR153C,320.57271362385706,INICIA,membrane,YB210 biofuel generation,transmembrane,transport ion  
+1013,YJL214W,75.71315346895116,INICIA,mitochondria,YB210 biofuel generation,transmembrane,transport ion  
+1014,YFL010C,245.680113181145,INICIF,membrane,YB211 biofuel generation,transmembrane,transport ion  
+1015,YPL105C,75.31799090224884,INICIF,mitochondria,YB211 biofuel generation,transmembrane,transport ion  
+1016,YIR013C,33.42146905675385,SAABQI,membrane,30 deg temperature,transmembrane,transport ion  
+1017,YGR145W,20.136784703650854,SAABQI,mitochondria,30 deg temperature,transmembrane,transport ion  
+1018,YLR362W,34.79874440248718,FFNAAA,membrane,Strain6 phenol lysis,transmembrane,transport ion  
+1019,YPL040C,27.70740627750314,FFNARN,membrane,Strain6 phenol lysis,transmembrane,transport ion  
+1020,YPL104W,31.397478230553943,FFNAAR,membrane,Strain6 phenol lysis,transmembrane,transport ion  
+1021,YDR315C,43.32688739689953,FFNAAA,mitochondria,Strain6 phenol lysis,transmembrane,transport ion  
+1022,YPL265W,38.536709435259645,FFNARN,mitochondria,Strain6 phenol lysis,transmembrane,transport ion  
+1023,YDR021W,48.86062894668337,FFNAAR,mitochondria,Strain6 phenol lysis,transmembrane,transport ion  
+1024,YKL134C,20.39056531546374,IFAAAR,membrane,DDY3630 strain W303,transmembrane,transport ion  
+1025,YLR220W,30.3244304691512,IFAAAR,mitochondria,DDY3630 strain W303,transmembrane,transport ion  
+1026,YBR273C,6.931212852168474,AFIINC,membrane,itc1 itc1-1_dUTP,transmembrane,transport ion  
+1027,YMR232W,3.650576479169741,AFIINC,mitochondria,itc1 itc1-1_dUTP,transmembrane,transport ion  
+1028,YOL156W,141.81986611085009,IFFABN,membrane,E2B1 ethanol,transmembrane,transport ion  
+1029,YNL083W,84.638735883825,IFFABN,mitochondria,E2B1 ethanol,transmembrane,transport ion  
+1030,YOL129W,132.57918702944738,SAARRS,membrane,wild type salt stress,transmembrane,transport ion  
+1031,YER168C,120.08245099249,SAARRS,mitochondria,wild type salt stress,transmembrane,transport ion  
+1032,YIL091C,29.38807746617524,SAABQR,membrane,37 deg temperature,transmembrane,transport ion  
+1033,YEL026W,20.555050792725957,SAABQR,mitochondria,37 deg temperature,transmembrane,transport ion  
+1034,YLR253W,12.851367724380818,FAFASB,membrane,tet-control strain tet-control,transmembrane,transport ion  
+1035,YGL236C,10.529088965286013,FAFASB,mitochondria,tet-control strain tet-control,transmembrane,transport ion  
+1036,YLR188W,27.228685420090063,SAABBN,membrane,15 deg temperature,transmembrane,transport ion  
+1037,YPL248C,21.296494794844552,SAABFA,membrane,15 deg temperature,transmembrane,transport ion  
+1038,YIL090W,15.266082818249028,SAABBN,mitochondria,15 deg temperature,transmembrane,transport ion  
+1039,YDR122W,12.580009093414812,SAABFA,mitochondria,15 deg temperature,transmembrane,transport ion  
+1040,YNL237W,93.6387034191532,SAASCF,membrane,ste12 galactose,transmembrane,transport ion  
+1041,YEL004W,126.07821681418616,SAASCF,mitochondria,ste12 galactose,transmembrane,transport ion  
+1042,YDL004W,386.4569767176183,INICIQ,membrane,YB212 biofuel generation,transmembrane,transport ion  
+1043,YDR299W,95.49860625585488,INICIQ,mitochondria,YB212 biofuel generation,transmembrane,transport ion  
+1044,YNL080C,215.3271575473776,IFFAFQ,membrane,G2A2 glucose,transmembrane,transport ion  
+1045,YJL194W,67.90979790267716,IFFAFQ,mitochondria,G2A2 glucose,transmembrane,transport ion  
+1046,YER169W,63.19519407120187,SAABRQ,membrane,wild type none,transmembrane,transport ion  
+1047,YDL070W,105.32532345200312,SAABRQ,mitochondria,wild type none,transmembrane,transport ion  
+1048,YOR226C,236.920988432957,IFFAFB,membrane,G1B2 glucose,transmembrane,transport ion  
+1049,YKR007W,67.40701056355778,IFFAFB,mitochondria,G1B2 glucose,transmembrane,transport ion  
+1050,YPR119W,307.3777332372401,IFFABF,mitochondria,E1B1 ethanol,ATP,transport ion  
+1051,YMR056C,161.97181373957275,SAASCC,mitochondria,pbs2 galactose,ATP,transport ion  
+1052,YDL174C,232.20903482852785,IFFAFF,mitochondria,G2A1 glucose,ATP,transport ion  
+1053,YPL131W,220.5300719721982,IFFAFA,mitochondria,G1A1 glucose,ATP,transport ion  
+1054,YIL115C,136.92804350767764,INICIA,mitochondria,YB210 biofuel generation,ATP,transport ion  
+1055,YFR049W,231.7476643146118,INICIF,mitochondria,YB211 biofuel generation,ATP,transport ion  
+1056,YOR028C,24.33194818357812,SAABQI,mitochondria,30 deg temperature,ATP,transport ion  
+1057,YDR523C,209.4786388397609,FFNAAA,mitochondria,Strain6 phenol lysis,ATP,transport ion  
+1058,YCR033W,134.63457979913497,FFNARN,mitochondria,Strain6 phenol lysis,ATP,transport ion  
+1059,YKR059W,166.7595169421064,FFNAAR,mitochondria,Strain6 phenol lysis,ATP,transport ion  
+1060,YDR031W,13.271109886169253,IFAAAR,mitochondria,DDY3630 strain W303,ATP,transport ion  
+1061,YNL268W,2.152037368893273,AFIINC,mitochondria,itc1 itc1-1_dUTP,ATP,transport ion  
+1062,YOR068C,321.8937750542321,IFFABN,mitochondria,E2B1 ethanol,ATP,transport ion  
+1063,YDL222C,41.90428284920089,SAARRS,mitochondria,wild type salt stress,ATP,transport ion  
+1064,YDR104C,10.82543870505438,SAABQR,mitochondria,37 deg temperature,ATP,transport ion  
+1065,YOR388C,9.839620703092155,FAFASB,mitochondria,tet-control strain tet-control,ATP,transport ion  
+1066,YDL017W,29.380952833810426,SAABBN,mitochondria,15 deg temperature,ATP,transport ion  
+1067,YPL083C,17.103158430372947,SAABFA,mitochondria,15 deg temperature,ATP,transport ion  
+1068,YJL050W,272.9650343881841,SAASCF,mitochondria,ste12 galactose,ATP,transport ion  
+1069,YOR130C,157.3495727374506,INICIQ,mitochondria,YB212 biofuel generation,ATP,transport ion  
+1070,YJR021C,242.43518387066845,IFFAFQ,mitochondria,G2A2 glucose,ATP,transport ion  
+1071,YLR369W,36.741828519709465,SAABRQ,mitochondria,wild type none,ATP,transport ion  
+1072,YBR127C,234.81085592835865,IFFAFB,mitochondria,G1B2 glucose,ATP,transport ion  
+1073,YLR163C,26.178498000770947,IFFABF,membrane,E1B1 ethanol,transporter,transport ion regulation positive
+1074,YLR178C,162.83837612989848,SAASCC,membrane,pbs2 galactose,transporter,transport ion regulation positive
+1075,YKL125W,17.78505961962409,IFFAFF,membrane,G2A1 glucose,transporter,transport ion regulation positive
+1076,YLR384C,19.312230982085467,IFFAFA,membrane,G1A1 glucose,transporter,transport ion regulation positive
+1077,YPL060W,320.57271362385706,INICIA,membrane,YB210 biofuel generation,transporter,transport ion regulation positive
+1078,YML099C,114.08054665963331,INICIF,membrane,YB211 biofuel generation,transporter,transport ion regulation positive
+1079,YLR090W,12.37573226578542,SAABQI,membrane,30 deg temperature,transporter,transport ion regulation positive
+1080,YKR050W,6.028514875360456,FFNAAA,membrane,Strain6 phenol lysis,transporter,transport ion regulation positive
+1081,YPL204W,7.024412859085302,FFNARN,membrane,Strain6 phenol lysis,transporter,transport ion regulation positive
+1082,YGL208W,6.876681111014697,FFNAAR,membrane,Strain6 phenol lysis,transporter,transport ion regulation positive
+1083,YGR179C,27.376530955458957,IFAAAR,membrane,DDY3630 strain W303,transporter,transport ion regulation positive
+1084,YGR102C,1.9116701933100804,AFIINC,membrane,itc1 itc1-1_dUTP,transporter,transport ion regulation positive
+1085,YGL255W,21.45958500361548,IFFABN,membrane,E2B1 ethanol,transporter,transport ion regulation positive
+1086,YGL077C,139.40628929139584,SAARRS,membrane,wild type salt stress,transporter,transport ion regulation positive
+1087,YAL040C,11.02467990821489,SAABQR,membrane,37 deg temperature,transporter,transport ion regulation positive
+1088,YEL064C,43.50330945834797,FAFASB,membrane,tet-control strain tet-control,transporter,transport ion regulation positive
+1089,YOR204W,4.6549039413021625,SAABBN,membrane,15 deg temperature,transporter,transport ion regulation positive
+1090,YHR030C,4.570265475884782,SAABFA,membrane,15 deg temperature,transporter,transport ion regulation positive
+1091,YDR382W,218.7969610418529,SAASCF,membrane,ste12 galactose,transporter,transport ion regulation positive
+1092,YHR090C,382.3514291589554,INICIQ,membrane,YB212 biofuel generation,transporter,transport ion regulation positive
+1093,YGR004W,19.283029034093516,IFFAFQ,membrane,G2A2 glucose,transporter,transport ion regulation positive
+1094,YGL048C,78.68421222590821,SAABRQ,membrane,wild type none,transporter,transport ion regulation positive
+1095,YJL034W,22.74253921622645,IFFAFB,membrane,G1B2 glucose,transporter,transport ion regulation positive
+1096,YPL146C,86.00251524414348,IFFABF,endoplasm,E1B1 ethanol,transporter,metabolic process   
+1097,YPL139C,146.8446485345394,SAASCC,endoplasm,pbs2 galactose,transporter,metabolic process   
+1098,YHR150W,79.62234383554785,IFFAFF,endoplasm,G2A1 glucose,transporter,metabolic process   
+1099,YHR164C,77.73660652889959,IFFAFA,endoplasm,G1A1 glucose,transporter,metabolic process   
+1100,YPL164C,72.49131715112345,INICIA,endoplasm,YB210 biofuel generation,transporter,metabolic process   
+1101,YMR274C,128.84066575586155,INICIF,endoplasm,YB211 biofuel generation,transporter,metabolic process   
+1102,YHR027C,31.53364549078658,SAABQI,endoplasm,30 deg temperature,transporter,metabolic process   
+1103,YNR047W,17.497396833363272,FFNAAA,endoplasm,Strain6 phenol lysis,transporter,metabolic process   
+1104,YKL100C,14.34150958729916,FFNARN,endoplasm,Strain6 phenol lysis,transporter,metabolic process   
+1105,YHL023C,14.205775453017203,FFNAAR,endoplasm,Strain6 phenol lysis,transporter,metabolic process   
+1106,YIL060W,51.79403824811738,IFAAAR,endoplasm,DDY3630 strain W303,transporter,metabolic process   
+1107,YML107C,12.54603984430712,AFIINC,endoplasm,itc1 itc1-1_dUTP,transporter,metabolic process   
+1108,YFR041C,88.37083762358422,IFFABN,endoplasm,E2B1 ethanol,transporter,metabolic process   
+1109,YIL050W,126.8703170345422,SAARRS,endoplasm,wild type salt stress,transporter,metabolic process   
+1110,YIL006W,26.034183879639983,SAABQR,endoplasm,37 deg temperature,transporter,metabolic process   
+1111,YGR031W,24.970509464881346,FAFASB,endoplasm,tet-control strain tet-control,transporter,metabolic process   
+1112,YCR040W,30.882534750359508,SAABBN,endoplasm,15 deg temperature,transporter,metabolic process   
+1113,YLR013W,19.458965376705308,SAABFA,endoplasm,15 deg temperature,transporter,metabolic process   
+1114,YER123W,144.8059574980168,SAASCF,endoplasm,ste12 galactose,transporter,metabolic process   
+1115,YMR319C,97.19437589965042,INICIQ,endoplasm,YB212 biofuel generation,transporter,metabolic process   
+1116,YLR064W,84.11872085887171,IFFAFQ,endoplasm,G2A2 glucose,transporter,metabolic process   
+1117,YDR508C,88.57840927746001,SAABRQ,endoplasm,wild type none,transporter,metabolic process   
+1118,YJL058C,77.48875475219424,IFFAFB,endoplasm,G1B2 glucose,transporter,metabolic process   
+1119,YGL219C,2035.59783783176,IFFABF,mitochondria,E1B1 ethanol,hydrolase,metabolic process   
+1120,YPL140C,105.96550968656628,SAASCC,mitochondria,pbs2 galactose,hydrolase,metabolic process   
+1121,YHR152W,645.2784451735407,IFFAFF,mitochondria,G2A1 glucose,hydrolase,metabolic process   
+1122,YIL088C,487.5850640376023,IFFAFA,mitochondria,G1A1 glucose,hydrolase,metabolic process   
+1123,YGL059W,1097.035266220335,INICIA,mitochondria,YB210 biofuel generation,hydrolase,metabolic process   
+1124,YGR033C,752.6281288693583,INICIF,mitochondria,YB211 biofuel generation,hydrolase,metabolic process   
+1125,YPL271W,26.918965662866597,SAABQI,mitochondria,30 deg temperature,hydrolase,metabolic process   
+1126,YCR035C,189.4816138873457,FFNAAA,mitochondria,Strain6 phenol lysis,hydrolase,metabolic process   
+1127,YOR140W,194.7323342601981,FFNARN,mitochondria,Strain6 phenol lysis,hydrolase,metabolic process   
+1128,YDL080C,260.6805036951756,FFNAAR,mitochondria,Strain6 phenol lysis,hydrolase,metabolic process   
+1129,YPL019C,15.306829172983145,IFAAAR,mitochondria,DDY3630 strain W303,hydrolase,metabolic process   
+1130,YBR061C,4.358532926004614,AFIINC,mitochondria,itc1 itc1-1_dUTP,hydrolase,metabolic process   
+1131,YEL056W,1828.4632737863171,IFFABN,mitochondria,E2B1 ethanol,hydrolase,metabolic process   
+1132,YNL273W,25.778196471839877,SAARRS,mitochondria,wild type salt stress,hydrolase,metabolic process   
+1133,YNL294C,25.7021152077058,SAABQR,mitochondria,37 deg temperature,hydrolase,metabolic process   
+1134,YML085C,16.488446425333677,FAFASB,mitochondria,tet-control strain tet-control,hydrolase,metabolic process   
+1135,YER103W,17.868824806934107,SAABBN,mitochondria,15 deg temperature,hydrolase,metabolic process   
+1136,YKR042W,13.145402760534578,SAABFA,mitochondria,15 deg temperature,hydrolase,metabolic process   
+1137,YJL025W,379.65839681033503,SAASCF,mitochondria,ste12 galactose,hydrolase,metabolic process   
+1138,YBL076C,802.0990415152969,INICIQ,mitochondria,YB212 biofuel generation,hydrolase,metabolic process   
+1139,YJR001W,634.9426371805864,IFFAFQ,mitochondria,G2A2 glucose,hydrolase,metabolic process   
+1140,YNL035C,16.72813960708285,SAABRQ,mitochondria,wild type none,hydrolase,metabolic process   
+1141,YBR281C,484.2754098053168,IFFAFB,mitochondria,G1B2 glucose,hydrolase,metabolic process   
+1142,YGL066W,20.81981216839837,IFFABF,nucleus,E1B1 ethanol,kinase,catabolic process   
+1143,YBR136W,10.850868191904386,SAASCC,nucleus,pbs2 galactose,kinase,catabolic process   
+1144,YPL186C,25.537521505101257,IFFAFF,nucleus,G2A1 glucose,kinase,catabolic process   
+1145,YPL138C,28.18805431223586,IFFAFA,nucleus,G1A1 glucose,kinase,catabolic process   
+1146,YJL141C,6.443672635655418,INICIA,nucleus,YB210 biofuel generation,kinase,catabolic process   
+1147,YPL147W,14.898064134510758,INICIF,nucleus,YB211 biofuel generation,kinase,catabolic process   
+1148,YDR422C,7.201697307208465,SAABQI,nucleus,30 deg temperature,kinase,catabolic process   
+1149,YHL048W,17.546409149423113,FFNAAA,nucleus,Strain6 phenol lysis,kinase,catabolic process   
+1150,YDL054C,12.78052895194687,FFNARN,nucleus,Strain6 phenol lysis,kinase,catabolic process   
+1151,YKL207W,11.762744005683034,FFNAAR,nucleus,Strain6 phenol lysis,kinase,catabolic process   
+1152,YNL209W,4.227176661143601,IFAAAR,nucleus,DDY3630 strain W303,kinase,catabolic process   
+1153,YHR026W,0.7192236581903347,AFIINC,nucleus,itc1 itc1-1_dUTP,kinase,catabolic process   
+1154,YNL289W,23.458925221343623,IFFABN,nucleus,E2B1 ethanol,kinase,catabolic process   
+1155,YOR142W,11.10385023064031,SAARRS,nucleus,wild type salt stress,kinase,catabolic process   
+1156,YPR019W,10.02847389241234,SAABQR,nucleus,37 deg temperature,kinase,catabolic process   
+1157,YMR065W,2.864767352991524,FAFASB,nucleus,tet-control strain tet-control,kinase,catabolic process   
+1158,YGL002W,4.955220324611979,SAABBN,nucleus,15 deg temperature,kinase,catabolic process   
+1159,YGL195W,3.816407253058426,SAABFA,nucleus,15 deg temperature,kinase,catabolic process   
+1160,YLR430W,13.273696905732592,SAASCF,nucleus,ste12 galactose,kinase,catabolic process   
+1161,YKR041W,12.227391642104784,INICIQ,nucleus,YB212 biofuel generation,kinase,catabolic process   
+1162,YMR290C,27.66695470109069,IFFAFQ,nucleus,G2A2 glucose,kinase,catabolic process   
+1163,YDR076W,6.85271712299129,SAABRQ,nucleus,wild type none,kinase,catabolic process   
+1164,YMR047C,24.149294219292003,IFFAFB,nucleus,G1B2 glucose,kinase,catabolic process   
+1165,YJL174W,53.14762178008867,IFFABF,nucleus,E1B1 ethanol,kinase,ion protein negative regulation
+1166,YPR156C,49.26218805873259,SAASCC,nucleus,pbs2 galactose,kinase,ion protein negative regulation
+1167,YOR136W,61.29005161224301,IFFAFF,nucleus,G2A1 glucose,kinase,ion protein negative regulation
+1168,YJL056C,71.88441532220702,IFFAFA,nucleus,G1A1 glucose,kinase,ion protein negative regulation
+1169,YGL209W,16.109181589138547,INICIA,nucleus,YB210 biofuel generation,kinase,ion protein negative regulation
+1170,YGR101W,32.41708399638915,INICIF,nucleus,YB211 biofuel generation,kinase,ion protein negative regulation
+1171,YHR031C,22.02460826961812,SAABQI,nucleus,30 deg temperature,kinase,ion protein negative regulation
+1172,YHL034C,7.057773512617119,FFNAAA,nucleus,Strain6 phenol lysis,kinase,ion protein negative regulation
+1173,YOR090C,5.560993513442531,FFNARN,nucleus,Strain6 phenol lysis,kinase,ion protein negative regulation
+1174,YLL018C,7.691024926792753,FFNAAR,nucleus,Strain6 phenol lysis,kinase,ion protein negative regulation
+1175,YLR332W,8.042759805281115,IFAAAR,nucleus,DDY3630 strain W303,kinase,ion protein negative regulation
+1176,YGL254W,6.059881840679401,AFIINC,nucleus,itc1 itc1-1_dUTP,kinase,ion protein negative regulation
+1177,YOL059W,67.17783131566583,IFFABN,nucleus,E2B1 ethanol,kinase,ion protein negative regulation
+1178,YHL031C,10.279889612818945,SAARRS,nucleus,wild type salt stress,kinase,ion protein negative regulation
+1179,YNL314W,21.352015605367995,SAABQR,nucleus,37 deg temperature,kinase,ion protein negative regulation
+1180,YOR205C,12.092418164446498,FAFASB,nucleus,tet-control strain tet-control,kinase,ion protein negative regulation
+1181,YNL216W,32.634380319666775,SAABBN,nucleus,15 deg temperature,kinase,ion protein negative regulation
+1182,YJL068C,24.641740658636504,SAABFA,nucleus,15 deg temperature,kinase,ion protein negative regulation
+1183,YMR089C,74.38527176875888,SAASCF,nucleus,ste12 galactose,kinase,ion protein negative regulation
+1184,YDR345C,19.72447848835881,INICIQ,nucleus,YB212 biofuel generation,kinase,ion protein negative regulation
+1185,YDR205W,72.2414928306257,IFFAFQ,nucleus,G2A2 glucose,kinase,ion protein negative regulation
+1186,YJL108C,31.12823284909468,SAABRQ,nucleus,wild type none,kinase,ion protein negative regulation
+1187,YLR266C,71.97896432352083,IFFAFB,nucleus,G1B2 glucose,kinase,ion protein negative regulation
+1188,YML052W,1031.6787936948122,IFFABF,mitochondria,E1B1 ethanol,ATP,transport protein ion 
+1189,YHR187W,393.49467845919935,SAASCC,mitochondria,pbs2 galactose,ATP,transport protein ion 
+1190,YLL022C,641.3566115138287,IFFAFF,mitochondria,G2A1 glucose,ATP,transport protein ion 
+1191,YBL104C,704.3112117254502,IFFAFA,mitochondria,G1A1 glucose,ATP,transport protein ion 
+1192,YPR018W,376.954849185842,INICIA,mitochondria,YB210 biofuel generation,ATP,transport protein ion 
+1193,YKL112W,672.3441165889392,INICIF,mitochondria,YB211 biofuel generation,ATP,transport protein ion 
+1194,YBR114W,68.171406548818,SAABQI,mitochondria,30 deg temperature,ATP,transport protein ion 
+1195,YPL202C,144.97843090500996,FFNAAA,mitochondria,Strain6 phenol lysis,ATP,transport protein ion 
+1196,YFL013C,124.39064437963556,FFNARN,mitochondria,Strain6 phenol lysis,ATP,transport protein ion 
+1197,YAL025C,153.91098118205264,FFNAAR,mitochondria,Strain6 phenol lysis,ATP,transport protein ion 
+1198,YDL140C,36.40934003137633,IFAAAR,mitochondria,DDY3630 strain W303,ATP,transport protein ion 
+1199,YGL194C,10.855958140987797,AFIINC,mitochondria,itc1 itc1-1_dUTP,ATP,transport protein ion 
+1200,YKL091C,1219.73082216202,IFFABN,mitochondria,E2B1 ethanol,ATP,transport protein ion 
+1201,YNL037C,98.34558516996444,SAARRS,mitochondria,wild type salt stress,ATP,transport protein ion 
+1202,YIL107C,38.61958654594554,SAABQR,mitochondria,37 deg temperature,ATP,transport protein ion 
+1203,YOR016C,24.30509242113611,FAFASB,mitochondria,tet-control strain tet-control,ATP,transport protein ion 
+1204,YMR224C,99.50482833665268,SAABBN,mitochondria,15 deg temperature,ATP,transport protein ion 
+1205,YOL017W,53.288353126038025,SAABFA,mitochondria,15 deg temperature,ATP,transport protein ion 
+1206,YBR084W,674.0891456665355,SAASCF,mitochondria,ste12 galactose,ATP,transport protein ion 
+1207,YOR229W,372.35531336395,INICIQ,mitochondria,YB212 biofuel generation,ATP,transport protein ion 
+1208,YOR083W,671.971642209824,IFFAFQ,mitochondria,G2A2 glucose,ATP,transport protein ion 
+1209,YDR023W,93.04675633299954,SAABRQ,mitochondria,wild type none,ATP,transport protein ion 
+1210,YBR272C,677.4697635596528,IFFAFB,mitochondria,G1B2 glucose,ATP,transport protein ion 
+1211,YGR128C,59.64832262591769,IFFABF,nucleus,E1B1 ethanol,ATP,repair ion  
+1212,YOL055C,87.93515603614671,IFFABF,nucleus,E1B1 ethanol,ATP,repair ion  
+1213,YIL048W,51.88071354254285,SAASCC,nucleus,pbs2 galactose,ATP,repair ion  
+1214,YFR053C,61.544768025957694,SAASCC,nucleus,pbs2 galactose,ATP,repair ion  
+1215,YGL073W,53.08156255703189,IFFAFF,nucleus,G2A1 glucose,ATP,repair ion  
+1216,YHL035C,63.57018746091277,IFFAFF,nucleus,G2A1 glucose,ATP,repair ion  
+1217,YGR106C,59.39974074792954,IFFAFA,nucleus,G1A1 glucose,ATP,repair ion  
+1218,YGR023W,68.86078319874919,IFFAFA,nucleus,G1A1 glucose,ATP,repair ion  
+1219,YGL086W,48.32754476741564,INICIA,nucleus,YB210 biofuel generation,ATP,repair ion  
+1220,YGL258W,46.71662660850178,INICIA,nucleus,YB210 biofuel generation,ATP,repair ion  
+1221,YAL044C,62.76499241854069,INICIF,nucleus,YB211 biofuel generation,ATP,repair ion  
+1222,YPL269W,52.69500462391768,INICIF,nucleus,YB211 biofuel generation,ATP,repair ion  
+1223,YPR081C,30.694612794801127,SAABQI,nucleus,30 deg temperature,ATP,repair ion  
+1224,YER164W,29.226305576826583,SAABQI,nucleus,30 deg temperature,ATP,repair ion  
+1225,YDR430C,9.704438579848537,FFNAAA,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1226,YGR009C,27.937020154109423,FFNAAA,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1227,YPL200W,12.975651531365909,FFNARN,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1228,YDR486C,17.268348278584703,FFNARN,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1229,YBR291C,11.49129606709035,FFNAAR,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1230,YPR173C,25.697071520107556,FFNAAR,nucleus,Strain6 phenol lysis,ATP,repair ion  
+1231,YPR185W,14.127669367506243,IFAAAR,nucleus,DDY3630 strain W303,ATP,repair ion  
+1232,YCL005W,28.3332077787704,IFAAAR,nucleus,DDY3630 strain W303,ATP,repair ion  
+1233,YBL019W,9.77618371942267,AFIINC,nucleus,itc1 itc1-1_dUTP,ATP,repair ion  
+1234,YGL105W,23.2423791577592,AFIINC,nucleus,itc1 itc1-1_dUTP,ATP,repair ion  
+1235,YOL070C,64.77862305439206,IFFABN,nucleus,E2B1 ethanol,ATP,repair ion  
+1236,YEL019C,95.43517305955702,IFFABN,nucleus,E2B1 ethanol,ATP,repair ion  
+1237,YGR150C,60.83575894914417,SAARRS,nucleus,wild type salt stress,ATP,repair ion  
+1238,YPR186C,72.74395168765773,SAARRS,nucleus,wild type salt stress,ATP,repair ion  
+1239,YEL030W,28.989595059854214,SAABQR,nucleus,37 deg temperature,ATP,repair ion  
+1240,YPL099C,22.746704027491568,SAABQR,nucleus,37 deg temperature,ATP,repair ion  
+1241,YGR008C,21.65678603418219,FAFASB,nucleus,tet-control strain tet-control,ATP,repair ion  
+1242,YDL021W,57.581289323608544,FAFASB,nucleus,tet-control strain tet-control,ATP,repair ion  
+1243,YJL030W,26.52794719236716,SAABBN,nucleus,15 deg temperature,ATP,repair ion  
+1244,YKL009W,30.932587480911145,SAABBN,nucleus,15 deg temperature,ATP,repair ion  
+1245,YDR055W,21.10803023913796,SAABFA,nucleus,15 deg temperature,ATP,repair ion  
+1246,YNR003C,25.866760270729333,SAABFA,nucleus,15 deg temperature,ATP,repair ion  
+1247,YDR165W,68.3617294435502,SAASCF,nucleus,ste12 galactose,ATP,repair ion  
+1248,YFL052W,65.8208897718258,SAASCF,nucleus,ste12 galactose,ATP,repair ion  
+1249,YBR074W,37.039179061850255,INICIQ,nucleus,YB212 biofuel generation,ATP,repair ion  
+1250,YJL159W,38.46719560399388,INICIQ,nucleus,YB212 biofuel generation,ATP,repair ion  
+1251,YDL088C,53.237927985432094,IFFAFQ,nucleus,G2A2 glucose,ATP,repair ion  
+1252,YDR376W,63.29863878582871,IFFAFQ,nucleus,G2A2 glucose,ATP,repair ion  
+1253,YLR113W,38.99477661493948,SAABRQ,nucleus,wild type none,ATP,repair ion  
+1254,YKL194C,69.4658996029254,SAABRQ,nucleus,wild type none,ATP,repair ion  
+1255,YLR142W,63.65566388871631,IFFAFB,nucleus,G1B2 glucose,ATP,repair ion  
+1256,YNL127W,80.88841267626934,IFFAFB,nucleus,G1B2 glucose,ATP,repair ion  
+1257,YIR010W,30.922252672051588,IFFABF,nucleus,E1B1 ethanol,damage,repair ion  
+1258,YML056C,11.434855889732574,SAASCC,nucleus,pbs2 galactose,damage,repair ion  
+1259,YKR044W,22.61894761880397,IFFAFF,nucleus,G2A1 glucose,damage,repair ion  
+1260,YDL111C,27.50529867145506,IFFAFA,nucleus,G1A1 glucose,damage,repair ion  
+1261,YMR133W,22.552854224793965,INICIA,nucleus,YB210 biofuel generation,damage,repair ion  
+1262,YLR396C,42.07323667616464,INICIF,nucleus,YB211 biofuel generation,damage,repair ion  
+1263,YBR245C,18.179041746351466,SAABQI,nucleus,30 deg temperature,damage,repair ion  
+1264,YAL010C,18.77171705091914,FFNAAA,nucleus,Strain6 phenol lysis,damage,repair ion  
+1265,YHR135C,17.561032147713256,FFNARN,nucleus,Strain6 phenol lysis,damage,repair ion  
+1266,YHR037W,18.54894247050017,FFNAAR,nucleus,Strain6 phenol lysis,damage,repair ion  
+1267,YOR378W,9.399905996490377,IFAAAR,nucleus,DDY3630 strain W303,damage,repair ion  
+1268,YOR087W,4.704060740905454,AFIINC,nucleus,itc1 itc1-1_dUTP,damage,repair ion  
+1269,YOR347C,38.38733218038048,IFFABN,nucleus,E2B1 ethanol,damage,repair ion  
+1270,YDR421W,18.26446036170694,SAARRS,nucleus,wild type salt stress,damage,repair ion  
+1271,YMR165C,16.370985526355245,SAABQR,nucleus,37 deg temperature,damage,repair ion  
+1272,YLR032W,14.836929425194906,FAFASB,nucleus,tet-control strain tet-control,damage,repair ion  
+1273,YNL232W,14.865660973835938,SAABBN,nucleus,15 deg temperature,damage,repair ion  
+1274,YDR063W,10.41266670278904,SAABFA,nucleus,15 deg temperature,damage,repair ion  
+1275,YDR120C,12.419449085066631,SAASCF,nucleus,ste12 galactose,damage,repair ion  
+1276,YJL192C,22.848264674297987,INICIQ,nucleus,YB212 biofuel generation,damage,repair ion  
+1277,YLR105C,21.658474639742717,IFFAFQ,nucleus,G2A2 glucose,damage,repair ion  
+1278,YNL189W,14.456416944392585,SAABRQ,nucleus,wild type none,damage,repair ion  
+1279,YGL122C,26.142197140301537,IFFAFB,nucleus,G1B2 glucose,damage,repair ion  
+1280,YLR126C,29.077459188775784,IFFABF,nucleus,E1B1 ethanol,exonuclease activity,repair ion  
+1281,YDL053C,25.073794380945728,SAASCC,nucleus,pbs2 galactose,exonuclease activity,repair ion  
+1282,YHR096C,19.97399003434705,IFFAFF,nucleus,G2A1 glucose,exonuclease activity,repair ion  
+1283,YDL035C,19.799913582643185,IFFAFA,nucleus,G1A1 glucose,exonuclease activity,repair ion  
+1284,YGR253C,30.60744501936324,INICIA,nucleus,YB210 biofuel generation,exonuclease activity,repair ion  
+1285,YMR137C,66.62745349045089,INICIF,nucleus,YB211 biofuel generation,exonuclease activity,repair ion  
+1286,YFL042C,26.429529923541747,SAABQI,nucleus,30 deg temperature,exonuclease activity,repair ion  
+1287,YDR335W,16.321101247927086,FFNAAA,nucleus,Strain6 phenol lysis,exonuclease activity,repair ion  
+1288,YKR048C,15.707367643232413,FFNARN,nucleus,Strain6 phenol lysis,exonuclease activity,repair ion  
+1289,YJL212C,20.901491271636772,FFNAAR,nucleus,Strain6 phenol lysis,exonuclease activity,repair ion  
+1290,YPR141C,10.567941652859002,IFAAAR,nucleus,DDY3630 strain W303,exonuclease activity,repair ion  
+1291,YMR039C,5.049588555806293,AFIINC,nucleus,itc1 itc1-1_dUTP,exonuclease activity,repair ion  
+1292,YNL191W,28.52392043958827,IFFABN,nucleus,E2B1 ethanol,exonuclease activity,repair ion  
+1293,YJL110C,28.093133445718948,SAARRS,nucleus,wild type salt stress,exonuclease activity,repair ion  
+1294,YJR094C,23.842530644874373,SAABQR,nucleus,37 deg temperature,exonuclease activity,repair ion  
+1295,YPL156C,10.962010897361225,FAFASB,nucleus,tet-control strain tet-control,exonuclease activity,repair ion  
+1296,YKL188C,21.67283232885845,SAABBN,nucleus,15 deg temperature,exonuclease activity,repair ion  
+1297,YGR098C,14.888699900820528,SAABFA,nucleus,15 deg temperature,exonuclease activity,repair ion  
+1298,YDR259C,21.575233419383835,SAASCF,nucleus,ste12 galactose,exonuclease activity,repair ion  
+1299,YKL068W,40.60922041720932,INICIQ,nucleus,YB212 biofuel generation,exonuclease activity,repair ion  
+1300,YMR002W,19.98168950634328,IFFAFQ,nucleus,G2A2 glucose,exonuclease activity,repair ion  
+1301,YFR011C,27.52351589672666,SAABRQ,nucleus,wild type none,exonuclease activity,repair ion  
+1302,YGR116W,24.735442137235985,IFFAFB,nucleus,G1B2 glucose,exonuclease activity,repair ion  
+1303,YKL217W,138.9744424067773,IFFABF,cytoplasm,E1B1 ethanol,hydrolase,ion positive regulation 
+1304,YGL220W,109.67665731470024,SAASCC,cytoplasm,pbs2 galactose,hydrolase,ion positive regulation 
+1305,YOR351C,87.46601115497181,IFFAFF,cytoplasm,G2A1 glucose,hydrolase,ion positive regulation 
+1306,YHL027W,94.4153514679734,IFFAFA,cytoplasm,G1A1 glucose,hydrolase,ion positive regulation 
+1307,YMR177W,53.1602992441572,INICIA,cytoplasm,YB210 biofuel generation,hydrolase,ion positive regulation 
+1308,YCR037C,82.6290779312217,INICIF,cytoplasm,YB211 biofuel generation,hydrolase,ion positive regulation 
+1309,YOR147W,69.36003620146406,SAABQI,cytoplasm,30 deg temperature,hydrolase,ion positive regulation 
+1310,YDR100W,34.55368282218797,FFNAAA,cytoplasm,Strain6 phenol lysis,hydrolase,ion positive regulation 
+1311,YIL007C,20.58543212870832,FFNARN,cytoplasm,Strain6 phenol lysis,hydrolase,ion positive regulation 
+1312,YOR151C,25.878036812502675,FFNAAR,cytoplasm,Strain6 phenol lysis,hydrolase,ion positive regulation 
+1313,YOL009C,33.35019902660136,IFAAAR,cytoplasm,DDY3630 strain W303,hydrolase,ion positive regulation 
+1314,YKR080W,12.643689009387792,AFIINC,cytoplasm,itc1 itc1-1_dUTP,hydrolase,ion positive regulation 
+1315,YJL001W,136.08842415336272,IFFABN,cytoplasm,E2B1 ethanol,hydrolase,ion positive regulation 
+1316,YER094C,113.56923848971158,SAARRS,cytoplasm,wild type salt stress,hydrolase,ion positive regulation 
+1317,YIR018W,50.44123126680247,SAABQR,cytoplasm,37 deg temperature,hydrolase,ion positive regulation 
+1318,YGL207W,33.71980826496926,FAFASB,cytoplasm,tet-control strain tet-control,hydrolase,ion positive regulation 
+1319,YPR086W,49.65230870722306,SAABBN,cytoplasm,15 deg temperature,hydrolase,ion positive regulation 
+1320,YIL134W,45.04302881387476,SAABFA,cytoplasm,15 deg temperature,hydrolase,ion positive regulation 
+1321,YMR060C,119.96705932788352,SAASCF,cytoplasm,ste12 galactose,hydrolase,ion positive regulation 
+1322,YNL062C,48.284809331231294,INICIQ,cytoplasm,YB212 biofuel generation,hydrolase,ion positive regulation 
+1323,YDR084C,86.91336274787076,IFFAFQ,cytoplasm,G2A2 glucose,hydrolase,ion positive regulation 
+1324,YBL016W,85.3116345393765,SAABRQ,cytoplasm,wild type none,hydrolase,ion positive regulation 
+1325,YNL290W,98.00393188023357,IFFAFB,cytoplasm,G1B2 glucose,hydrolase,ion positive regulation 
+1326,YOR157C,74.05528125721446,IFFABF,nucleus,E1B1 ethanol,transcription,ion positive regulation 
+1327,YGL054C,43.1962513264527,SAASCC,nucleus,pbs2 galactose,transcription,ion positive regulation 
+1328,YPL270W,48.886112595479545,IFFAFF,nucleus,G2A1 glucose,transcription,ion positive regulation 
+1329,YDL012C,48.18304093510212,IFFAFA,nucleus,G1A1 glucose,transcription,ion positive regulation 
+1330,YGL139W,78.93498978677887,INICIA,nucleus,YB210 biofuel generation,transcription,ion positive regulation 
+1331,YNL054W,36.693380183146864,INICIF,nucleus,YB211 biofuel generation,transcription,ion positive regulation 
+1332,YLR096W,23.07339913959994,SAABQI,nucleus,30 deg temperature,transcription,ion positive regulation 
+1333,YKR052C,13.184313020097257,FFNAAA,nucleus,Strain6 phenol lysis,transcription,ion positive regulation 
+1334,YLR244C,10.634180578337473,FFNARN,nucleus,Strain6 phenol lysis,transcription,ion positive regulation 
+1335,YLR382C,14.929636622597696,FFNAAR,nucleus,Strain6 phenol lysis,transcription,ion positive regulation 
+1336,YER040W,32.76061912386291,IFAAAR,nucleus,DDY3630 strain W303,transcription,ion positive regulation 
+1337,YJR066W,2.700374988192432,AFIINC,nucleus,itc1 itc1-1_dUTP,transcription,ion positive regulation 
+1338,YMR127C,69.04388218554544,IFFABN,nucleus,E2B1 ethanol,transcription,ion positive regulation 
+1339,YIL140W,34.351310519171705,SAARRS,nucleus,wild type salt stress,transcription,ion positive regulation 
+1340,YPR033C,27.561699770537224,SAABQR,nucleus,37 deg temperature,transcription,ion positive regulation 
+1341,YDR363W,24.134061534390344,FAFASB,nucleus,tet-control strain tet-control,transcription,ion positive regulation 
+1342,YFR050C,14.515291859974484,SAABBN,nucleus,15 deg temperature,transcription,ion positive regulation 
+1343,YAL046C,16.302184068619944,SAABFA,nucleus,15 deg temperature,transcription,ion positive regulation 
+1344,YGL071W,100.69172388721572,SAASCF,nucleus,ste12 galactose,transcription,ion positive regulation 
+1345,YGR020C,71.13307400552928,INICIQ,nucleus,YB212 biofuel generation,transcription,ion positive regulation 
+1346,YER060W,52.12007122983247,IFFAFQ,nucleus,G2A2 glucose,transcription,ion positive regulation 
+1347,YPL128C,75.68028143226819,SAABRQ,nucleus,wild type none,transcription,ion positive regulation 
+1348,YBR054W,50.877639277537526,IFFAFB,nucleus,G1B2 glucose,transcription,ion positive regulation 
+1349,YBL099W,68.87229004229673,IFFABF,nucleus,E1B1 ethanol,RNA polymerase,negative regulation ion repair
+1350,YOR119C,28.29514587541734,SAASCC,nucleus,pbs2 galactose,RNA polymerase,negative regulation ion repair
+1351,YLL014W,61.92848964987055,IFFAFF,nucleus,G2A1 glucose,RNA polymerase,negative regulation ion repair
+1352,YPL160W,63.10612851216817,IFFAFA,nucleus,G1A1 glucose,RNA polymerase,negative regulation ion repair
+1353,YNL023C,43.49479029067408,INICIA,nucleus,YB210 biofuel generation,RNA polymerase,negative regulation ion repair
+1354,YDR214W,76.69744128507391,INICIF,nucleus,YB211 biofuel generation,RNA polymerase,negative regulation ion repair
+1355,YIL126W,26.988885054198715,SAABQI,nucleus,30 deg temperature,RNA polymerase,negative regulation ion repair
+1356,YLR295C,9.655426263788696,FFNAAA,nucleus,Strain6 phenol lysis,RNA polymerase,negative regulation ion repair
+1357,YJR117W,6.829290279666266,FFNARN,nucleus,Strain6 phenol lysis,RNA polymerase,negative regulation ion repair
+1358,YHR110W,8.233920803978124,FFNAAR,nucleus,Strain6 phenol lysis,RNA polymerase,negative regulation ion repair
+1359,YDR194C,13.415723824576796,IFAAAR,nucleus,DDY3630 strain W303,RNA polymerase,negative regulation ion repair
+1360,YOL114C,5.252398360204612,AFIINC,nucleus,itc1 itc1-1_dUTP,RNA polymerase,negative regulation ion repair
+1361,YNL257C,60.24678522754158,IFFABN,nucleus,E2B1 ethanol,RNA polymerase,negative regulation ion repair
+1362,YNL118C,65.5833415565911,SAARRS,nucleus,wild type salt stress,RNA polymerase,negative regulation ion repair
+1363,YBL015W,20.389016456758863,SAABQR,nucleus,37 deg temperature,RNA polymerase,negative regulation ion repair
+1364,YBR041W,10.39012636980508,FAFASB,nucleus,tet-control strain tet-control,RNA polymerase,negative regulation ion repair
+1365,YPL078C,26.0274198868508,SAABBN,nucleus,15 deg temperature,RNA polymerase,negative regulation ion repair
+1366,YDR395W,18.987803987438834,SAABFA,nucleus,15 deg temperature,RNA polymerase,negative regulation ion repair
+1367,YDL039C,53.94903544359633,SAASCF,nucleus,ste12 galactose,RNA polymerase,negative regulation ion repair
+1368,YNL275W,56.138900313021225,INICIQ,nucleus,YB212 biofuel generation,RNA polymerase,negative regulation ion repair
+1369,YLR079W,60.22453270792975,IFFAFQ,nucleus,G2A2 glucose,RNA polymerase,negative regulation ion repair
+1370,YDR233C,29.907885964178423,SAABRQ,nucleus,wild type none,RNA polymerase,negative regulation ion repair
+1371,YPL235W,57.79418470927649,IFFAFB,nucleus,G1B2 glucose,RNA polymerase,negative regulation ion repair
+1372,YDL018C,39.09205238370159,IFFABF,nucleus,E1B1 ethanol,transcription,negative regulation ion 
+1373,YNR070W,148.9011882929757,IFFABF,nucleus,E1B1 ethanol,transcription,negative regulation ion 
+1374,YKL056C,26.656212658931786,SAASCC,nucleus,pbs2 galactose,transcription,negative regulation ion 
+1375,YNL246W,149.2559525771848,SAASCC,nucleus,pbs2 galactose,transcription,negative regulation ion 
+1376,YGL211W,28.45609539139854,IFFAFF,nucleus,G2A1 glucose,transcription,negative regulation ion 
+1377,YDR039C,128.23484012918703,IFFAFF,nucleus,G2A1 glucose,transcription,negative regulation ion 
+1378,YJR137C,31.0166133954706,IFFAFA,nucleus,G1A1 glucose,transcription,negative regulation ion 
+1379,YMR148W,138.2092489980561,IFFAFA,nucleus,G1A1 glucose,transcription,negative regulation ion 
+1380,YMR021C,24.16377238370782,INICIA,nucleus,YB210 biofuel generation,transcription,negative regulation ion 
+1381,YML047C,119.20794375962524,INICIA,nucleus,YB210 biofuel generation,transcription,negative regulation ion 
+1382,YOR104W,41.10762140818709,INICIF,nucleus,YB211 biofuel generation,transcription,negative regulation ion 
+1383,YLR006C,236.16190553965205,INICIF,nucleus,YB211 biofuel generation,transcription,negative regulation ion 
+1384,YDR216W,15.661943658395108,SAABQI,nucleus,30 deg temperature,transcription,negative regulation ion 
+1385,YHR127W,44.328894104564725,SAABQI,nucleus,30 deg temperature,transcription,negative regulation ion 
+1386,YIL120W,8.724192258651716,FFNAAA,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1387,YMR228W,60.18712412148487,FFNAAA,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1388,YML109W,7.707341887051929,FFNARN,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1389,YBR297W,45.07331584579736,FFNARN,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1390,YDR464W,9.681643143139112,FFNAAR,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1391,YGR231C,54.0181397799444,FFNAAR,nucleus,Strain6 phenol lysis,transcription,negative regulation ion 
+1392,YGR095C,10.334334521585276,IFAAAR,nucleus,DDY3630 strain W303,transcription,negative regulation ion 
+1393,YER045C,43.039332899906825,IFAAAR,nucleus,DDY3630 strain W303,transcription,negative regulation ion 
+1394,YCL027W,4.360410794563857,AFIINC,nucleus,itc1 itc1-1_dUTP,transcription,negative regulation ion 
+1395,YMR028W,21.486572054866347,AFIINC,nucleus,itc1 itc1-1_dUTP,transcription,negative regulation ion 
+1396,YNR049C,38.65391087607756,IFFABN,nucleus,E2B1 ethanol,transcription,negative regulation ion 
+1397,YLR422W,163.27945111446556,IFFABN,nucleus,E2B1 ethanol,transcription,negative regulation ion 
+1398,YDR192C,23.227842178583263,SAARRS,nucleus,wild type salt stress,transcription,negative regulation ion 
+1399,YLR093C,122.59356906585036,SAARRS,nucleus,wild type salt stress,transcription,negative regulation ion 
+1400,YNL251C,19.160362370602385,SAABQR,nucleus,37 deg temperature,transcription,negative regulation ion 
+1401,YDR064W,28.425078317566104,SAABQR,nucleus,37 deg temperature,transcription,negative regulation ion 
+1402,YLR442C,14.6204684591573,FAFASB,nucleus,tet-control strain tet-control,transcription,negative regulation ion 
+1403,YEL063C,32.5012131969057,FAFASB,nucleus,tet-control strain tet-control,transcription,negative regulation ion 
+1404,YDR397C,11.96260260184104,SAABBN,nucleus,15 deg temperature,transcription,negative regulation ion 
+1405,YNR013C,69.12282089180952,SAABBN,nucleus,15 deg temperature,transcription,negative regulation ion 
+1406,YER012W,9.847273035669271,SAABFA,nucleus,15 deg temperature,transcription,negative regulation ion 
+1407,YLR370C,37.78714341917108,SAABFA,nucleus,15 deg temperature,transcription,negative regulation ion 
+1408,YPR198W,23.21801768989529,SAASCF,nucleus,ste12 galactose,transcription,negative regulation ion 
+1409,YKL024C,299.6657547315637,SAASCF,nucleus,ste12 galactose,transcription,negative regulation ion 
+1410,YML076C,29.006586012292367,INICIQ,nucleus,YB212 biofuel generation,transcription,negative regulation ion 
+1411,YPL061W,88.00151940960085,INICIQ,nucleus,YB212 biofuel generation,transcription,negative regulation ion 
+1412,YCR093W,27.80668679554065,IFFAFQ,nucleus,G2A2 glucose,transcription,negative regulation ion 
+1413,YDR343C,137.21691674985385,IFFAFQ,nucleus,G2A2 glucose,transcription,negative regulation ion 
+1414,YBR069C,21.722174551509376,SAABRQ,nucleus,wild type none,transcription,negative regulation ion 
+1415,YNR039C,219.11797682857903,SAABRQ,nucleus,wild type none,transcription,negative regulation ion 
+1416,YDR040C,29.072936730021443,IFFAFB,nucleus,G1B2 glucose,transcription,negative regulation ion 
+1417,YPL125W,110.31303815705716,IFFAFB,nucleus,G1B2 glucose,transcription,negative regulation ion 
+1418,YKL114C,33.29413000769191,IFFABF,nucleus,E1B1 ethanol,transcription,ion positive regulation histone
+1419,YDL183C,34.64365730019473,SAASCC,nucleus,pbs2 galactose,transcription,ion positive regulation histone
+1420,YKL054C,25.902343240888417,IFFAFF,nucleus,G2A1 glucose,transcription,ion positive regulation histone
+1421,YJR051W,26.334860430116542,IFFAFA,nucleus,G1A1 glucose,transcription,ion positive regulation histone
+1422,YNL009W,28.996526860449386,INICIA,nucleus,YB210 biofuel generation,transcription,ion positive regulation histone
+1423,YJR135C,33.65858934093171,INICIF,nucleus,YB211 biofuel generation,transcription,ion positive regulation histone
+1424,YGL213C,22.933560356935697,SAABQI,nucleus,30 deg temperature,transcription,ion positive regulation histone
+1425,YNL027W,9.018266155010762,FFNAAA,nucleus,Strain6 phenol lysis,transcription,ion positive regulation histone
+1426,YBR231C,6.634167700247231,FFNARN,nucleus,Strain6 phenol lysis,transcription,ion positive regulation histone
+1427,YPL055C,8.595851388768372,FFNAAR,nucleus,Strain6 phenol lysis,transcription,ion positive regulation histone
+1428,YER057C,27.16517212240177,IFAAAR,nucleus,DDY3630 strain W303,transcription,ion positive regulation histone
+1429,YCL025C,10.73201881607771,AFIINC,nucleus,itc1 itc1-1_dUTP,transcription,ion positive regulation histone
+1430,YDR190C,31.056418048710597,IFFABN,nucleus,E2B1 ethanol,transcription,ion positive regulation histone
+1431,YGR108W,23.09051540894637,SAARRS,nucleus,wild type salt stress,transcription,ion positive regulation histone
+1432,YJL148W,22.87953149626524,SAABQR,nucleus,37 deg temperature,transcription,ion positive regulation histone
+1433,YLR353W,33.81868549636916,FAFASB,nucleus,tet-control strain tet-control,transcription,ion positive regulation histone
+1434,YGR028W,15.916768315420295,SAABBN,nucleus,15 deg temperature,transcription,ion positive regulation histone
+1435,YOL145C,17.19739070822624,SAABFA,nucleus,15 deg temperature,transcription,ion positive regulation histone
+1436,YNL279W,34.58608484183459,SAASCF,nucleus,ste12 galactose,transcription,ion positive regulation histone
+1437,YPL120W,23.83002604702173,INICIQ,nucleus,YB212 biofuel generation,transcription,ion positive regulation histone
+1438,YHR149C,28.78481145669032,IFFAFQ,nucleus,G2A2 glucose,transcription,ion positive regulation histone
+1439,YDR005C,33.00568959511969,SAABRQ,nucleus,wild type none,transcription,ion positive regulation histone
+1440,YGR188C,32.003676319741345,IFFAFB,nucleus,G1B2 glucose,transcription,ion positive regulation histone
+1441,YIL036W,55.51949911572899,IFFABF,endoplasm,E1B1 ethanol,transcription,transport positive regulation ion
+1442,YIL098C,43.62953252161555,SAASCC,endoplasm,pbs2 galactose,transcription,transport positive regulation ion
+1443,YGR198W,43.778608294459296,IFFAFF,endoplasm,G2A1 glucose,transcription,transport positive regulation ion
+1444,YLR414C,55.98596254402555,IFFAFA,endoplasm,G1A1 glucose,transcription,transport positive regulation ion
+1445,YGR218W,27.385608701535528,INICIA,endoplasm,YB210 biofuel generation,transcription,transport positive regulation ion
+1446,YGR063C,32.00324888154163,INICIF,endoplasm,YB211 biofuel generation,transcription,transport positive regulation ion
+1447,YPR020W,40.62316636396231,SAABQI,endoplasm,30 deg temperature,transcription,transport positive regulation ion
+1448,YGR245C,13.625423864635826,FFNAAA,endoplasm,Strain6 phenol lysis,transcription,transport positive regulation ion
+1449,YPR133C,10.634180578337473,FFNARN,endoplasm,Strain6 phenol lysis,transcription,transport positive regulation ion
+1450,YKL198C,10.857917543707416,FFNAAR,endoplasm,Strain6 phenol lysis,transcription,transport positive regulation ion
+1451,YPL243W,22.704388329984447,IFAAAR,endoplasm,DDY3630 strain W303,transcription,transport positive regulation ion
+1452,YDR497C,7.539642265363431,AFIINC,endoplasm,itc1 itc1-1_dUTP,transcription,transport positive regulation ion
+1453,YFL029C,54.91521131359985,IFFABN,endoplasm,E2B1 ethanol,transcription,transport positive regulation ion
+1454,YPL048W,59.05051094386455,SAARRS,endoplasm,wild type salt stress,transcription,transport positive regulation ion
+1455,YNL123W,26.034183879639983,SAABQR,endoplasm,37 deg temperature,transcription,transport positive regulation ion
+1456,YDR030C,36.907930888214494,FAFASB,endoplasm,tet-control strain tet-control,transcription,transport positive regulation ion
+1457,YJL100W,29.631216486568604,SAABBN,endoplasm,15 deg temperature,transcription,transport positive regulation ion
+1458,YPL015C,21.10803023913796,SAABFA,endoplasm,15 deg temperature,transcription,transport positive regulation ion
+1459,YKL032C,44.13613740107454,SAASCF,endoplasm,ste12 galactose,transcription,transport positive regulation ion
+1460,YDL178W,26.06130189412114,INICIQ,endoplasm,YB212 biofuel generation,transcription,transport positive regulation ion
+1461,YDL107W,45.69239488513463,IFFAFQ,endoplasm,G2A2 glucose,transcription,transport positive regulation ion
+1462,YGR041W,40.515516579219735,SAABRQ,endoplasm,wild type none,transcription,transport positive regulation ion
+1463,YKL085W,52.98777178213585,IFFAFB,endoplasm,G1B2 glucose,transcription,transport positive regulation ion
