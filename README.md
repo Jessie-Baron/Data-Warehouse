@@ -2,10 +2,15 @@
 
 Data Engineering exercise in which three very large stabases were un-normalized and organized into a single data warehouse.
 
+Note: The data warehouse sql file exceeds Githubs size limits. You will need to run the code yourself to create and view the database.
+
 ## Directions to edit yourself
 
 - git clone
 - run db.py
+- run data-lake.ipynb
+- run sports.ipynb
+- run yeast.ipynb
 
 ## Schema
 
